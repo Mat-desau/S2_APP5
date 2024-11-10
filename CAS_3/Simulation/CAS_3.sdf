@@ -1,1476 +1,0 @@
-SDF: 1.0
-TotalPoints: 2928
-#ChartSetupsBegin
-Chart: Operating Point
-ChartId: RADKFOPE
-ChartView: 4
-ChartTitle: Operating Point
-ChartBackgroundColor: 3881787
-ChartForegroundColor: 13421772
-ChartGridColor: 5789784
-ChartXDivisions: 4
-ChartXOffset: 0.00000000000000E+000
-ChartXDivSize: 1.00000000000000E+000
-ChartXMin: 0.00000000000000E+000
-ChartXMax: 0.00000000000000E+000
-ChartAutoXMin: TRUE
-ChartAutoXMax: TRUE
-ChartAutoXDiv TRUE
-ChartUseXDefaults: FALSE
-ChartXDataType: 0
-ChartPrimaryYDataType: 0
-ChartXScaleMode: 0
-ChartXScaleLogBase: 10
-ChartYScaleMode: 0
-ChartBoldWaves: FALSE
-ChartHighlightSimilarWaves: TRUE
-ChartShowDataPoints: FALSE
-ChartShowWaveSymbols: FALSE
-ChartShowChartTitle: TRUE
-ChartShowPlotTitle: TRUE
-ChartShowAxisLabels: TRUE
-ChartSimDataPanel: FALSE
-ChartZoomPlotsSeparately: TRUE
-ChartFFTLength: 128
-ChartDisplayMeasurements: FALSE
-ChartCursorDisplay_AcRms: FALSE
-ChartCursorDisplay_RMS: FALSE
-ChartCursorDisplay_Average: FALSE
-ChartCursorDisplay_BminusA: FALSE
-ChartCursorDisplay_Frequency: FALSE
-ChartCursorDisplay_Maximum: FALSE
-ChartCursorDisplay_Minimum: FALSE
-ChartCursorDisplay_RMS: FALSE
-ChartCursorDisplay_XY: TRUE
-ChartFourier: FALSE
-ChartTable: TRUE
-ChartType: Table
-ChartXUnitStr: 
-ChartXLabel: 
-ChartRelatedChartId: 
-ChartDeltaItem: 0
-WaveName: V(V-)
-WaveEq: V(V-)
-WaveYUnitStr: 
-ChartCursorAXPos: 0
-ChartCursorAYPos: 0
-ChartCursorAXVal: 0.00000000000000E+000
-ChartCursorAYVal: 0.00000000000000E+000
-ChartCursorBXPos: 0
-ChartCursorBYPos: 0
-ChartCursorBXVal: 0.00000000000000E+000
-ChartCursorBYVal: 0.00000000000000E+000
-ChartActiveCellIndex: 0
-ChartTopCellIndex: 0
-Chart: DC Sweep
-ChartId: HPCFURWM
-ChartView: 4
-ChartTitle: DC Sweep
-ChartBackgroundColor: 3881787
-ChartForegroundColor: 13421772
-ChartGridColor: 5789784
-ChartXDivisions: 9
-ChartXOffset: 0.00000000000000E+000
-ChartXDivSize: 1.00000000000000E+000
-ChartXMin: 1.00000000000000E+000
-ChartXMax: 1.00000000000000E+001
-ChartAutoXMin: TRUE
-ChartAutoXMax: TRUE
-ChartAutoXDiv TRUE
-ChartUseXDefaults: FALSE
-ChartXDataType: 0
-ChartPrimaryYDataType: 0
-ChartXScaleMode: 0
-ChartXScaleLogBase: 10
-ChartYScaleMode: 0
-ChartBoldWaves: FALSE
-ChartHighlightSimilarWaves: TRUE
-ChartShowDataPoints: FALSE
-ChartShowWaveSymbols: FALSE
-ChartShowChartTitle: TRUE
-ChartShowPlotTitle: TRUE
-ChartShowAxisLabels: TRUE
-ChartSimDataPanel: FALSE
-ChartZoomPlotsSeparately: TRUE
-ChartFFTLength: 128
-ChartDisplayMeasurements: FALSE
-ChartCursorDisplay_AcRms: FALSE
-ChartCursorDisplay_RMS: FALSE
-ChartCursorDisplay_Average: FALSE
-ChartCursorDisplay_BminusA: FALSE
-ChartCursorDisplay_Frequency: FALSE
-ChartCursorDisplay_Maximum: FALSE
-ChartCursorDisplay_Minimum: FALSE
-ChartCursorDisplay_RMS: FALSE
-ChartCursorDisplay_XY: TRUE
-ChartFourier: FALSE
-ChartTable: FALSE
-ChartType: XY Scatter
-ChartXUnitStr: V
-ChartXLabel: 
-ChartRelatedChartId: 
-ChartDeltaItem: 0
-Cell: 0
-CellHeight: 520
-CellIsScaled: TRUE
-CellIsDigital: FALSE
-CellIsPartial: FALSE
-CellTitle 
-CellXGrid: TRUE
-CellYGrid: TRUE
-CellMinorGrid: TRUE
-CellGridStyle: 0
-CellAxisDivisions: 10
-CellAxisLabel: 
-CellAxisUnits: 
-CellAxisAutoMin: TRUE
-CellAxisAutoMax: TRUE
-CellAxisAutoDiv: TRUE
-CellAxisAutoUnits: TRUE
-CellAxisDivSize: 1.00000000000000E+000
-CellAxisOffset: -5.00000000000000E+000
-CellAxisScaleMode: 0
-CellAxisLogScaleBase: 10
-WaveName: V(V-)
-WaveEq: V(V-)
-WaveColor: 5793220
-WaveYUnitStr: 
-CellSelectedAxis: 0
-CellXAxisDivisions: 9
-CellXAxisLabel: 
-CellXAxisUnits: V
-CellXAxisAutoMin: TRUE
-CellXAxisAutoMax: TRUE
-CellXAxisAutoDiv: TRUE
-CellXAxisAutoLabel TRUE
-CellXAxisAutoUnits: TRUE
-CellXAxisDivSize: 1.00000000000000E+000
-CellXAxisOffset: 0.00000000000000E+000
-CellXAxisMin: 1.00000000000000E+000
-CellXAxisMax: 1.00000000000000E+001
-CellXAxisScaleMode: 0
-CellXAxisLogScaleBase: 10
-CellXAxisZoomOffset: 0.00000000000000E+000
-CellXAxisZoomRange: 9.00000000000000E+000
-ChartCursorAXPos: 0
-ChartCursorAYPos: 0
-ChartCursorAXVal: 0.00000000000000E+000
-ChartCursorAYVal: 0.00000000000000E+000
-ChartCursorBXPos: 0
-ChartCursorBYPos: 0
-ChartCursorBXVal: 0.00000000000000E+000
-ChartCursorBYVal: 0.00000000000000E+000
-ChartActiveCellIndex: 0
-ChartTopCellIndex: 0
-Chart: Transient Analysis
-ChartId: MYUXKYGF
-ChartView: 4
-ChartTitle: Transient Analysis
-ChartBackgroundColor: 3881787
-ChartForegroundColor: 13421772
-ChartGridColor: 5789784
-ChartXDivisions: 10
-ChartXOffset: 0.00000000000000E+000
-ChartXDivSize: 5.00000000000000E-002
-ChartXMin: 0.00000000000000E+000
-ChartXMax: 5.00000000000000E-001
-ChartAutoXMin: TRUE
-ChartAutoXMax: TRUE
-ChartAutoXDiv TRUE
-ChartUseXDefaults: FALSE
-ChartXDataType: 0
-ChartPrimaryYDataType: 0
-ChartXScaleMode: 0
-ChartXScaleLogBase: 10
-ChartYScaleMode: 0
-ChartBoldWaves: FALSE
-ChartHighlightSimilarWaves: TRUE
-ChartShowDataPoints: FALSE
-ChartShowWaveSymbols: FALSE
-ChartShowChartTitle: TRUE
-ChartShowPlotTitle: TRUE
-ChartShowAxisLabels: TRUE
-ChartSimDataPanel: FALSE
-ChartZoomPlotsSeparately: TRUE
-ChartFFTLength: 128
-ChartDisplayMeasurements: FALSE
-ChartCursorDisplay_AcRms: FALSE
-ChartCursorDisplay_RMS: FALSE
-ChartCursorDisplay_Average: FALSE
-ChartCursorDisplay_BminusA: FALSE
-ChartCursorDisplay_Frequency: FALSE
-ChartCursorDisplay_Maximum: FALSE
-ChartCursorDisplay_Minimum: FALSE
-ChartCursorDisplay_RMS: FALSE
-ChartCursorDisplay_XY: TRUE
-ChartFourier: FALSE
-ChartTable: FALSE
-ChartType: XY Scatter
-ChartXUnitStr: s
-ChartXLabel: Time
-ChartRelatedChartId: 
-ChartDeltaItem: 0
-Cell: 0
-CellHeight: 520
-CellIsScaled: TRUE
-CellIsDigital: FALSE
-CellIsPartial: FALSE
-CellTitle 
-CellXGrid: TRUE
-CellYGrid: TRUE
-CellMinorGrid: TRUE
-CellGridStyle: 0
-CellAxisDivisions: 8
-CellAxisLabel: Voltage (V)
-CellAxisUnits: 
-CellAxisAutoMin: TRUE
-CellAxisAutoMax: TRUE
-CellAxisAutoDiv: TRUE
-CellAxisAutoUnits: TRUE
-CellAxisDivSize: 2.50000000000000E+000
-CellAxisOffset: 0.00000000000000E+000
-CellAxisScaleMode: 0
-CellAxisLogScaleBase: 10
-WaveName: v(Vin)
-WaveEq: v(Vin)
-WaveColor: 5793220
-WaveYUnitStr: 
-WaveName: v(Vout)
-WaveEq: v(Vout)
-WaveColor: 14580346
-WaveYUnitStr: 
-CellSelectedAxis: 0
-CellXAxisDivisions: 10
-CellXAxisLabel: Time
-CellXAxisUnits: s
-CellXAxisAutoMin: TRUE
-CellXAxisAutoMax: TRUE
-CellXAxisAutoDiv: TRUE
-CellXAxisAutoLabel TRUE
-CellXAxisAutoUnits: TRUE
-CellXAxisDivSize: 5.00000000000000E-002
-CellXAxisOffset: 0.00000000000000E+000
-CellXAxisMin: 0.00000000000000E+000
-CellXAxisMax: 5.00000000000000E-001
-CellXAxisScaleMode: 0
-CellXAxisLogScaleBase: 10
-CellXAxisZoomOffset: 0.00000000000000E+000
-CellXAxisZoomRange: 5.00000000000000E-001
-ChartCursorAXPos: 0
-ChartCursorAYPos: 0
-ChartCursorAXVal: 0.00000000000000E+000
-ChartCursorAYVal: 0.00000000000000E+000
-ChartCursorBXPos: 0
-ChartCursorBYPos: 0
-ChartCursorBXVal: 0.00000000000000E+000
-ChartCursorBYVal: 0.00000000000000E+000
-ChartActiveCellIndex: 0
-ChartTopCellIndex: 0
-Chart: AC Analysis
-ChartId: XQIQNBIK
-ChartView: 4
-ChartTitle: AC Analysis
-ChartBackgroundColor: 3881787
-ChartForegroundColor: 13421772
-ChartGridColor: 5789784
-ChartXDivisions: 6
-ChartXOffset: 0.00000000000000E+000
-ChartXDivSize: 1.00000000000000E+000
-ChartXMin: 0.00000000000000E+000
-ChartXMax: 6.00000000000000E+000
-ChartAutoXMin: TRUE
-ChartAutoXMax: TRUE
-ChartAutoXDiv TRUE
-ChartUseXDefaults: FALSE
-ChartXDataType: 0
-ChartPrimaryYDataType: 2
-ChartXScaleMode: 1
-ChartXScaleLogBase: 10
-ChartYScaleMode: 0
-ChartBoldWaves: FALSE
-ChartHighlightSimilarWaves: TRUE
-ChartShowDataPoints: FALSE
-ChartShowWaveSymbols: FALSE
-ChartShowChartTitle: TRUE
-ChartShowPlotTitle: TRUE
-ChartShowAxisLabels: TRUE
-ChartSimDataPanel: FALSE
-ChartZoomPlotsSeparately: TRUE
-ChartFFTLength: 128
-ChartDisplayMeasurements: FALSE
-ChartCursorDisplay_AcRms: FALSE
-ChartCursorDisplay_RMS: FALSE
-ChartCursorDisplay_Average: FALSE
-ChartCursorDisplay_BminusA: FALSE
-ChartCursorDisplay_Frequency: FALSE
-ChartCursorDisplay_Maximum: FALSE
-ChartCursorDisplay_Minimum: FALSE
-ChartCursorDisplay_RMS: FALSE
-ChartCursorDisplay_XY: TRUE
-ChartFourier: FALSE
-ChartTable: FALSE
-ChartType: XY Scatter
-ChartXUnitStr: Hz
-ChartXLabel: Frequency
-ChartRelatedChartId: 
-ChartDeltaItem: 0
-Cell: 0
-CellHeight: 520
-CellIsScaled: TRUE
-CellIsDigital: FALSE
-CellIsPartial: FALSE
-CellTitle 
-CellXGrid: TRUE
-CellYGrid: TRUE
-CellMinorGrid: TRUE
-CellGridStyle: 0
-CellAxisDivisions: 10
-CellAxisLabel: 
-CellAxisUnits: 
-CellAxisAutoMin: TRUE
-CellAxisAutoMax: TRUE
-CellAxisAutoDiv: TRUE
-CellAxisAutoUnits: TRUE
-CellAxisDivSize: 1.00000000000000E+001
-CellAxisOffset: -4.00000000000000E+001
-CellAxisScaleMode: 0
-CellAxisLogScaleBase: 10
-WaveName: Boucle Ouverte
-WaveEq: dB(v(Vout)/(0-v(V-)))
-WaveColor: 1930808
-WaveYUnitStr: 
-WaveName: Boucle Fermer
-WaveEq: dB(v(Vout)/v(Vin))
-WaveColor: 153
-WaveYUnitStr: 
-CellSelectedAxis: 0
-CellXAxisDivisions: 6
-CellXAxisLabel: Frequency
-CellXAxisUnits: Hz
-CellXAxisAutoMin: TRUE
-CellXAxisAutoMax: TRUE
-CellXAxisAutoDiv: TRUE
-CellXAxisAutoLabel TRUE
-CellXAxisAutoUnits: TRUE
-CellXAxisDivSize: 1.00000000000000E+000
-CellXAxisOffset: 0.00000000000000E+000
-CellXAxisMin: 0.00000000000000E+000
-CellXAxisMax: 6.00000000000000E+000
-CellXAxisScaleMode: 1
-CellXAxisLogScaleBase: 10
-CellXAxisZoomOffset: 0.00000000000000E+000
-CellXAxisZoomRange: 6.00000000000000E+000
-ChartCursorAXPos: 0
-ChartCursorAYPos: 0
-ChartCursorAXVal: 0.00000000000000E+000
-ChartCursorAYVal: 0.00000000000000E+000
-ChartCursorBXPos: 0
-ChartCursorBYPos: 0
-ChartCursorBXVal: 0.00000000000000E+000
-ChartCursorBYVal: 0.00000000000000E+000
-ChartActiveCellIndex: 0
-ChartTopCellIndex: 0
-ActiveChartName: AC Analysis
-FilteredWavesBlend: 80
-#ChartSetupsEnd
-Chart: Operating Point
-ChartId: RADKFOPE
-ChartShow: TRUE
-ChartXMinReal: 0.00000000000000E+000
-ChartXMaxReal: 0.00000000000000E+000
-Wave: i(15vneg)
-WaveYUnitStr: A
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    2s„¹
-Wave: i(15vpos)
-WaveYUnitStr: A
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    ûa„¹
-Wave: i(r1)
-WaveYUnitStr: A
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    K³
-Wave: i(r2)
-WaveYUnitStr: A
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    %³
-Wave: i(u?a.bb)
-WaveYUnitStr: A
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    y¸
-Wave: i(u?a.bgnd)
-WaveYUnitStr: A
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    L«P´
-Wave: i(u?a.c1)
-WaveYUnitStr: A
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-        
-Wave: i(u?a.c2)
-WaveYUnitStr: A
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-        
-Wave: i(u?a.ga)
-WaveYUnitStr: A
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    ú:°
-Wave: i(u?a.gcm)
-WaveYUnitStr: A
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    h²W°
-Wave: i(u?a.hlim)
-WaveYUnitStr: A
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    ä–¥
-Wave: i(u?a.iss)
-WaveYUnitStr: A
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    r3\8
-Wave: i(u?a.r2)
-WaveYUnitStr: A
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    ÅÂå®
-Wave: i(u?a.rd1)
-WaveYUnitStr: A
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    m¼Ü·
-Wave: i(u?a.rd2)
-WaveYUnitStr: A
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    ã½Ü·
-Wave: i(u?a.ro1)
-WaveYUnitStr: A
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    '3
-Wave: i(u?a.ro2)
-WaveYUnitStr: A
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    28
-Wave: i(u?a.rp)
-WaveYUnitStr: A
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    ·Q9
-Wave: i(u?a.rss)
-WaveYUnitStr: A
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    9	´
-Wave: i(u?a.vb)
-WaveYUnitStr: A
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    ÅÂå®
-Wave: i(u?a.vc)
-WaveYUnitStr: A
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    Ùa-
-Wave: i(u?a.ve)
-WaveYUnitStr: A
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    ƒOa-
-Wave: i(u?a.vlim)
-WaveYUnitStr: A
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    '3
-Wave: i(u?a.vln)
-WaveYUnitStr: A
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    óòƒ­
-Wave: i(u?a.vlp)
-WaveYUnitStr: A
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    ¦òƒ­
-Wave: i(ventree)
-WaveYUnitStr: A
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    K3
-Wave: id(u?a.dc)
-WaveYUnitStr: A
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    Ùa­
-Wave: id(u?a.de)
-WaveYUnitStr: A
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    ƒOa­
-Wave: id(u?a.dln)
-WaveYUnitStr: A
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    óòƒ­
-Wave: id(u?a.dlp)
-WaveYUnitStr: A
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    ¦òƒ­
-Wave: id(u?a.dp)
-WaveYUnitStr: A
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    æñ®
-Wave: id(u?a.j1)
-WaveYUnitStr: A
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    m¼Ü7
-Wave: id(u?a.j2)
-WaveYUnitStr: A
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    ã½Ü7
-Wave: ig(u?a.j1)
-WaveYUnitStr: A
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    ”ÑF®
-Wave: ig(u?a.j2)
-WaveYUnitStr: A
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    ÑF®
-Wave: igd(u?a.j1)
-WaveYUnitStr: A
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    ª¶®
-Wave: igd(u?a.j2)
-WaveYUnitStr: A
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    ¦¶®
-Wave: is(u?a.j1)
-WaveYUnitStr: A
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    T¼Ü·
-Wave: is(u?a.j2)
-WaveYUnitStr: A
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    Ê½Ü·
-Wave: p(15vneg)
-WaveYUnitStr: W
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    şWx;
-Wave: p(15vpos)
-WaveYUnitStr: W
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    ·7x;
-Wave: p(r1)
-WaveYUnitStr: W
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    ê/ö*
-Wave: p(r2)
-WaveYUnitStr: W
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    ø¾ğ/
-Wave: p(u?a.bb)
-WaveYUnitStr: W
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    Îül´
-Wave: p(u?a.bgnd)
-WaveYUnitStr: W
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-        
-Wave: p(u?a.c1)
-WaveYUnitStr: W
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-        
-Wave: p(u?a.c2)
-WaveYUnitStr: W
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-        
-Wave: p(u?a.dc)
-WaveYUnitStr: W
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    ø3/
-Wave: p(u?a.de)
-WaveYUnitStr: W
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    }W4/
-Wave: p(u?a.dln)
-WaveYUnitStr: W
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    Îgw/
-Wave: p(u?a.dlp)
-WaveYUnitStr: W
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    °fw/
-Wave: p(u?a.dp)
-WaveYUnitStr: W
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    ew0
-Wave: p(u?a.ga)
-WaveYUnitStr: W
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    Ö (
-Wave: p(u?a.gcm)
-WaveYUnitStr: W
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    I²¨
-Wave: p(u?a.hlim)
-WaveYUnitStr: W
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    p%
-Wave: p(u?a.iss)
-WaveYUnitStr: W
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    Ÿ(U:
-Wave: p(u?a.j1)
-WaveYUnitStr: W
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    ZÄ¹
-Wave: p(u?a.j2)
-WaveYUnitStr: W
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    R[Ä¹
-Wave: p(u?a.r2)
-WaveYUnitStr: W
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    šS&
-Wave: p(u?a.rd1)
-WaveYUnitStr: W
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    0‚ö6
-Wave: p(u?a.rd2)
-WaveYUnitStr: W
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    s…ö6
-Wave: p(u?a.ro1)
-WaveYUnitStr: W
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    #†v+
-Wave: p(u?a.ro2)
-WaveYUnitStr: W
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    „l4
-Wave: p(u?a.rp)
-WaveYUnitStr: W
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    ¦›Ä;
-Wave: p(u?a.rss)
-WaveYUnitStr: W
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    úd†3
-Wave: p(u?a.vb)
-WaveYUnitStr: W
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-        
-Wave: p(u?a.vc)
-WaveYUnitStr: W
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    Õ•÷­
-Wave: p(u?a.ve)
-WaveYUnitStr: W
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    v×÷­
-Wave: p(u?a.vlim)
-WaveYUnitStr: W
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-        
-Wave: p(u?a.vln)
-WaveYUnitStr: W
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    ‡gw/
-Wave: p(u?a.vlp)
-WaveYUnitStr: W
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-    øfw/
-Wave: p(ventree)
-WaveYUnitStr: W
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveDataStart
-        
-Wave: v(u?a.10)
-WaveYUnitStr: V
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: NodeVoltage
-WaveDataStart
-    ­ú¾
-Wave: v(u?a.11)
-WaveYUnitStr: V
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: NodeVoltage
-WaveDataStart
-    qˆkÁ
-Wave: v(u?a.12)
-WaveYUnitStr: V
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: NodeVoltage
-WaveDataStart
-    iˆkÁ
-Wave: v(u?a.53)
-WaveYUnitStr: V
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: NodeVoltage
-WaveDataStart
-    ÍÌLA
-Wave: v(u?a.54)
-WaveYUnitStr: V
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: NodeVoltage
-WaveDataStart
-    ÍÌLÁ
-Wave: v(u?a.6)
-WaveYUnitStr: V
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: NodeVoltage
-WaveDataStart
-    )K/·
-Wave: v(u?a.7)
-WaveYUnitStr: V
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: NodeVoltage
-WaveDataStart
-    1~Ù;
-Wave: v(u?a.8)
-WaveYUnitStr: V
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: NodeVoltage
-WaveDataStart
-    1~Ù;
-Wave: v(u?a.9)
-WaveYUnitStr: V
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: NodeVoltage
-WaveDataStart
-        
-Wave: v(u?a.90)
-WaveYUnitStr: V
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: NodeVoltage
-WaveDataStart
-    ~ÇŠ8
-Wave: v(u?a.91)
-WaveYUnitStr: V
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: NodeVoltage
-WaveDataStart
-      pA
-Wave: v(u?a.92)
-WaveYUnitStr: V
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: NodeVoltage
-WaveDataStart
-      pÁ
-Wave: v(u?a.99)
-WaveYUnitStr: V
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: NodeVoltage
-WaveDataStart
-        
-Wave: v(v-)
-WaveYUnitStr: V
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: NodeVoltage
-WaveDataStart
-    %åİ6
-Wave: v(vcc)
-WaveYUnitStr: V
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: NodeVoltage
-WaveDataStart
-      pA
-Wave: v(vcc_neg)
-WaveYUnitStr: V
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: NodeVoltage
-WaveDataStart
-      pÁ
-Wave: v(vin)
-WaveYUnitStr: V
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: NodeVoltage
-WaveDataStart
-        
-Wave: v(vout)
-WaveYUnitStr: V
-WaveHint: 
-WavePoints: 1
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: NodeVoltage
-WaveDataStart
-    +Ù;
-Chart: DC Sweep
-ChartId: HPCFURWM
-ChartShow: TRUE
-ChartXMinReal: 1.00000000000000E+000
-ChartXMaxReal: 1.00000000000000E+001
-Wave: v(sweep)
-WaveYUnitStr: V
-WaveHint: 
-WavePoints: 10
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveIndependent: TRUE
-WaveDataStart
-  €?  €?   @   @  @@  @@  €@  €@   @   @  À@  À@  à@  à@   A   A  A  A   A   A
-Wave: v(v-)
-WaveYUnitStr: V
-WaveHint: 
-WavePoints: 10
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: NodeVoltage
-WaveDataStart
-  €?1N|?   @bş?  @@Óò>@  €@uâ~@   @iŸ@  À@Ü`¿@  à@­Xß@   A~Pÿ@  A(¤A   A A
-Chart: Transient Analysis
-ChartId: MYUXKYGF
-ChartShow: TRUE
-ChartXMinReal: 0.00000000000000E+000
-ChartXMaxReal: 5.00000000000000E-001
-Wave: time
-WaveYUnitStr: s
-WaveHint: 
-WavePoints: 138
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: General
-WaveIndependent: TRUE
-WaveDataStart
-        ¬Å'8¬Å'8yÆ58yÆ58ÈQ8ÈQ8¢å„8¢å„8Óè¼8Óè¼8›w9›w9 ?ƒ9 ?ƒ9¦÷Ù9¦÷Ù9š5:š5:™:™:^ı
-;^ı
-;ÿùƒ;ÿùƒ;Ox <Ox <‡B<‡B<_Å<_Å<û‰¢<û‰¢<–NÃ<–NÃ<2ä<2ä<çk=çk=5Î=5Î=‚0#=‚0#=Ğ’3=Ğ’3=õC=õC=lWT=lWT=º¹d=º¹d=u=u=+¿‚=+¿‚=RğŠ=RğŠ=y!“=y!“=ŸR›=ŸR›=Æƒ£=Æƒ£=í´«=í´«=æ³=æ³=;¼=;¼=bHÄ=bHÄ=‰yÌ=‰yÌ=°ªÔ=°ªÔ=×ÛÜ=×ÛÜ=şå=şå=%>í=%>í=Koõ=Koõ=r ı=r ı=Íè>Íè>`>`>ô>ô>‡2>‡2>K>K>®c>®c>A|>A|>Õ”>Õ”>h­#>h­#>üÅ'>üÅ'>Ş+>Ş+>#÷/>#÷/>¶4>¶4>J(8>J(8>İ@<>İ@<>pY@>pY@>rD>rD>—ŠH>—ŠH>+£L>+£L>¾»P>¾»P>RÔT>RÔT>åìX>åìX>y]>y]>a>a> 6e> 6e>3Oi>3Oi>Ægm>Ægm>Z€q>Z€q>í˜u>í˜u>±y>±y>Ê}>Ê}>Tñ€>Tñ€>ı‚>ı‚>ç	…>ç	…>1‡>1‡>{"‰>{"‰>Å.‹>Å.‹>;>;>XG>XG>¢S‘>¢S‘>ë_“>ë_“>5l•>5l•>x—>x—>É„™>É„™>‘›>‘›>\>\>¦©Ÿ>¦©Ÿ>ğµ¡>ğµ¡>9Â£>9Â£>ƒÎ¥>ƒÎ¥>ÍÚ§>ÍÚ§>ç©>ç©>`ó«>`ó«>ªÿ­>ªÿ­>ô°>ô°>=²>=²>‡$´>‡$´>Ñ0¶>Ñ0¶>=¸>=¸>dIº>dIº>®U¼>®U¼>øa¾>øa¾>AnÀ>AnÀ>‹zÂ>‹zÂ>Õ†Ä>Õ†Ä>“Æ>“Æ>hŸÈ>hŸÈ>²«Ê>²«Ê>ü·Ì>ü·Ì>FÄÎ>FÄÎ>ĞĞ>ĞĞ>ÙÜÒ>ÙÜÒ>#éÔ>#éÔ>lõÖ>lõÖ>¶Ù>¶Ù> Û> Û>Jİ>Jİ>“&ß>“&ß>İ2á>İ2á>'?ã>'?ã>qKå>qKå>ºWç>ºWç>dé>dé>Npë>Npë>—|í>—|í>áˆï>áˆï>+•ñ>+•ñ>u¡ó>u¡ó>¾­õ>¾­õ>º÷>º÷>RÆù>RÆù>œÒû>œÒû>åŞı>åŞı>/ëÿ>/ëÿ>   ?   ?
-Wave: v(vin)
-WaveYUnitStr: V
-WaveHint: 
-WavePoints: 138
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: NodeVoltage
-WaveDataStart
-        ¬Å'8ÔÒ7yÆ58ßlä7ÈQ85Ï8¢å„8» '8Óè¼8¯cm8›w9ƒ½8 ?ƒ9ì$9¦÷Ù9÷ïˆ9š5:_wã9™: @:^ı
-;¨$®:ÿùƒ;$;Ox <åüš;‡B<íêİ;_Å<¨s	<û‰¢<âN<–NÃ<ég#<2ä<}<!<çk=‚ï<5Î=®ş;‚0#=¾=Ã;Ğ’3=‰Rw;õC=™>±:lWT=ìJ—ºº¹d=k)k»u=Zó½»+¿‚=bú»RğŠ=‹¼y!“=£Ÿ ¼ŸR›=xœ#¼Æƒ£=ŒQ¼í´«=-4¼æ³=N¯â»;¼=ğ· »bHÄ=°N)»‰yÌ=ÖCÑ¸°ªÔ=££;×ÛÜ=åüš;şå=íêİ;%>í=¨s	<Koõ=âN<r ı=ég#<Íè>}<!<`>‚ï<ô>®ş;‡2>¾=Ã;K>‰Rw;®c>™>±:A|>ìJ—ºÕ”>k)k»h­#>Zó½»üÅ'>bú»Ş+>‹¼#÷/>£Ÿ ¼¶4>xœ#¼J(8>ŒQ¼İ@<>-4¼pY@>N¯â»rD>ğ· »—ŠH>°N)»+£L>ÖCÑ¸¾»P>££;RÔT>åüš;åìX>íêİ;y]>¨s	<a>âN< 6e>ég#<3Oi>}<!<Ægm>‚ï<Z€q>®ş;í˜u>¾=Ã;±y>‰Rw;Ê}>™>±:Tñ€>ìJ—ºı‚>k)k»ç	…>Zó½»1‡>bú»{"‰>‹¼Å.‹>£Ÿ ¼;>xœ#¼XG>ŒQ¼¢S‘>-4¼ë_“>N¯â»5l•>ğ· »x—>°N)»É„™>ÖCÑ¸‘›>££;\>åüš;¦©Ÿ>íêİ;ğµ¡>¨s	<9Â£>âN<ƒÎ¥>ég#<ÍÚ§>}<!<ç©>‚ï<`ó«>®ş;ªÿ­>¾=Ã;ô°>‰Rw;=²>™>±:‡$´>ìJ—ºÑ0¶>k)k»=¸>Zó½»dIº>bú»®U¼>‹¼øa¾>£Ÿ ¼AnÀ>xœ#¼‹zÂ>ŒQ¼Õ†Ä>-4¼“Æ>N¯â»hŸÈ>ğ· »²«Ê>°N)»ü·Ì>ÖCÑ¸FÄÎ>££;ĞĞ>åüš;ÙÜÒ>íêİ;#éÔ>¨s	<lõÖ>âN<¶Ù>ég#< Û>}<!<Jİ>‚ï<“&ß>®ş;İ2á>¾=Ã;'?ã>‰Rw;qKå>™>±:ºWç>ìJ—ºdé>k)k»Npë>Zó½»—|í>bú»áˆï>‹¼+•ñ>£Ÿ ¼u¡ó>xœ#¼¾­õ>ŒQ¼º÷>-4¼RÆù>N¯â»œÒû>ğ· »åŞı>°N)»/ëÿ>ÖCÑ¸   ?Oèa£
-Wave: v(vout)
-WaveYUnitStr: V
-WaveHint: 
-WavePoints: 138
-WaveIsXComplex: FALSE
-WaveIsYComplex: FALSE
-WaveType: 0
-WaveVariableType: NodeVoltage
-WaveDataStart
-    +Ù;¬Å'8é7¹:yÆ58+ w:ÈQ8“âŒ¸¢å„8|•"»Óè¼8gz¼›w9›«Ğ¼ ?ƒ9îL½¦÷Ù9vI¾š5:N¾™¾™:ıG¿^ı
-;ËÊ‰¿ÿùƒ;ğ/ÀOx <0À‡B<JºÀ_Å<LKçÀû‰¢<®Á–NÃ<Ë$
-Á2ä< –Áçk=ªàüÀ5Î=c¯ØÀ‚0#=%Û¦ÀĞ’3=ÁUÀõC=”¿lWT=(p?º¹d=eYC@u=3Ÿ@+¿‚=ù½Ò@RğŠ=ù@y!“=İAŸR›=§«
-AÆƒ£=›ÅAí´«=¢í@æ³=€¸Á@;¼=M5Š@bHÄ=s@‰yÌ=.&>°ªÔ=·ÿ¿×ÛÜ=†Àşå=ºÀ%>í=ULçÀKoõ=9Ár ı=2%
-ÁÍè>F–Á`>IáüÀô>×®ØÀ‡2>¡Û¦ÀK>çUÀ®c>¿A|>´*p?Õ”>ĞXC@h­#>Ğ3Ÿ@üÅ'>¿½Ò@Ş+>Eù@#÷/>İA¶4>º«
-AJ(8>ŠÅAİ@<>Áí@pY@>f¸Á@rD>e5Š@—ŠH>I@+£L>z’&>¾»P>F·ÿ¿RÔT>xÀåìX>*ºÀy]>JLçÀa>>Á 6e>.%
-Á3Oi>J–ÁÆgm>CáüÀZ€q>Ü®ØÀí˜u>œÛ¦À±y>ğUÀÊ}>¿Tñ€>˜*p?ı‚>ÖXC@ç	…>Í3Ÿ@1‡>Â½Ò@{"‰>Cù@Å.‹>	İA;>º«
-AXG>‹ÅA¢S‘>Àí@ë_“>g¸Á@5l•>d5Š@x—>K@É„™>a’&>‘›>C·ÿ¿\>xÀ¦©Ÿ>)ºÀğµ¡>JLçÀ9Â£>>ÁƒÎ¥>.%
-ÁÍÚ§>J–Áç©>CáüÀ`ó«>Ü®ØÀªÿ­>œÛ¦Àô°>ğUÀ=²>¿‡$´>™*p?Ñ0¶>ÖXC@=¸>Í3Ÿ@dIº>Â½Ò@®U¼>Cù@øa¾>	İAAnÀ>º«
-A‹zÂ>‹ÅAÕ†Ä>Àí@“Æ>g¸Á@hŸÈ>d5Š@²«Ê>K@ü·Ì>b’&>FÄÎ>D·ÿ¿ĞĞ>xÀÙÜÒ>)ºÀ#éÔ>JLçÀlõÖ>>Á¶Ù>.%
-Á Û>J–ÁJİ>CáüÀ“&ß>Ü®ØÀİ2á>œÛ¦À'?ã>ğUÀqKå>¿ºWç>™*p?dé>ÖXC@Npë>Í3Ÿ@—|í>Â½Ò@áˆï>Cù@+•ñ>	İAu¡ó>º«
-A¾­õ>‹ÅAº÷>Àí@RÆù>g¸Á@œÒû>d5Š@åŞı>K@/ëÿ>b’&>   ?gk›=
-Chart: AC Analysis
-ChartId: XQIQNBIK
-ChartShow: TRUE
-ChartXMinReal: 0.00000000000000E+000
-ChartXMaxReal: 6.00000000000000E+000
-Wave: frequency
-WaveYUnitStr: Hz
-WaveHint: 
-WavePoints: 601
-WaveIsXComplex: TRUE
-WaveIsYComplex: TRUE
-WaveType: 0
-WaveVariableType: General
-WaveIndependent: TRUE
-WaveDataStart
-  €?      €?    Dû‚?    Dû‚?    O†?    O†?    ‹'‰?    ‹'‰?    fYŒ?    fYŒ?    M?    M?    ³ö’?    ³ö’?    c–?    c–?    Íã™?    Íã™?    ry?    ry?    x$¡?    x$¡?    \å¤?    \å¤?    £¼¨?    £¼¨?    Ñª¬?    Ñª¬?    n°°?    n°°?    Î´?    Î´?    ,¹?    ,¹?    lS½?    lS½?    `¼Á?    `¼Á?    Ÿ?Æ?    Ÿ?Æ?    ÈİÊ?    ÈİÊ?    y—Ï?    y—Ï?    XmÔ?    XmÔ?    `Ù?    `Ù?    BpŞ?    BpŞ?    ©ã?    ©ã?    õëè?    õëè?    ßXî?    ßXî?    #æó?    #æó?    ‚”ù?    ‚”ù?    Ádÿ?    Ádÿ?    Ö«@    Ö«@    ·@    ·@    _Ô@    _Ô@    I@    I@    5G@    5G@    “@    “@    Ø@    Ø@    {†@    {†@    ó@    ó@    ¿Â @    ¿Â @    ]$@    ]$@    PV(@    PV(@    B,@    B,@    HE0@    HE0@    c`4@    c`4@    ù“8@    ù“8@    à<@    à<@    äFA@    äFA@    fÇE@    fÇE@    ÂbJ@    ÂbJ@    –O@    –O@    †ìS@    †ìS@    :ÜX@    :ÜX@    ^é]@    ^é]@     c@     c@    µ^h@    µ^h@    UÈm@    UÈm@    ;Rs@    ;Rs@    (ıx@    (ıx@    áÉ~@    áÉ~@    ˜\‚@    ˜\‚@    ñe…@    ñe…@    eˆ@    eˆ@    a¯‹@    a¯‹@    Rğ@    Rğ@    ªD’@    ªD’@    İ¬•@    İ¬•@    a)™@    a)™@    ®ºœ@    ®ºœ@    Ba @    Ba @    ›¤@    ›¤@    :ğ§@    :ğ§@    ¥Ù«@    ¥Ù«@    cÚ¯@    cÚ¯@     ó³@     ó³@    
-$¸@    
-$¸@    n¼@    n¼@    ®ÑÀ@    ®ÑÀ@    vOÅ@    vOÅ@    èÉ@    èÉ@    ÿ›Î@    ÿ›Î@    lÓ@    lÓ@    ¸XØ@    ¸XØ@    Ëbİ@    Ëbİ@    ëŠâ@    ëŠâ@    ËÑç@    ËÑç@    #8í@    #8í@    ­¾ò@    ­¾ò@    *fø@    *fø@    ^/ş@    ^/ş@    ŠA    ŠA    A    A    .A    .A    «ZA    «ZA    £™A    £™A    ÷ëA    ÷ëA    RA    RA    ÌA    ÌA    £[A    £[A       A       A    º#A    º#A    cŠ'A    cŠ'A    nq+A    nq+A    ¿o/A    ¿o/A    à…3A    à…3A    _´7A    _´7A    Îû;A    Îû;A    À\@A    À\@A    Ï×DA    Ï×DA    –mIA    –mIA    ´NA    ´NA    ÌëRA    ÌëRA    …ÕWA    …ÕWA    ŠÜ\A    ŠÜ\A    ŠbA    ŠbA    7EgA    7EgA    H¨lA    H¨lA    x+rA    x+rA    ‡ÏwA    ‡ÏwA    :•}A    :•}A    ¬¾A    ¬¾A    WÄ„A    WÄ„A    Ü‡A    Ü‡A    )‹A    )‹A    *CA    *CA    y“‘A    y“‘A    ‹÷”A    ‹÷”A    Öo˜A    Öo˜A    Ñü›A    Ñü›A    ùŸA    ùŸA    ËV£A    ËV£A    É$§A    É$§A    w	«A    w	«A    \¯A    \¯A    ³A    ³A    øD·A    øD·A    Î‰»A    Î‰»A    è¿A    è¿A    p`ÄA    p`ÄA    oóÈA    oóÈA    µ¡ÍA    µ¡ÍA    ãkÒA    ãkÒA    ¢R×A    ¢R×A    ›VÜA    ›VÜA    |xáA    |xáA    ÷¸æA    ÷¸æA    ÄìA    ÄìA    œ˜ñA    œ˜ñA    @9÷A    @9÷A    rûüA    rûüA    şoB    şoB    ÔsB    ÔsB    ¤‰B    ¤‰B    Ú±
-B    Ú±
-B    äìB    äìB    1;B    1;B    5B    5B    eB    eB    9B    9B    ->B    ->B    ¾ó"B    ¾ó"B    m¿&B    m¿&B    ¾¡*B    ¾¡*B    9›.B    9›.B    f¬2B    f¬2B    ÕÕ6B    ÕÕ6B    ;B    ;B    ¹s?B    ¹s?B    ZéCB    ZéCB    “yHB    “yHB    %MB    %MB    IìQB    IìQB    ĞVB    ĞVB    üĞ[B    üĞ[B    Àï`B    Àï`B    -fB    -fB    —‰kB    —‰kB    qB    qB    T£vB    T£vB    b|B    b|B    !B    !B    #„B    #„B    s7‡B    s7‡B    ¿]ŠB    ¿]ŠB    Ó–B    Ó–B    ãB    ãB    C”B    C”B    ,·—B    ,·—B    Ú?›B    Ú?›B    ›İB    ›İB    ì¢B    ì¢B    NZ¦B    NZ¦B    D:ªB    D:ªB    V1®B    V1®B    @²B    @²B    ôf¶B    ôf¶B    Ÿ¦ºB    Ÿ¦ºB    Ÿÿ¾B    Ÿÿ¾B    ŒrÃB    ŒrÃB      ÈB      ÈB    š¨ÌB    š¨ÌB    ûlÑB    ûlÑB    ÊMÖB    ÊMÖB    ¯KÛB    ¯KÛB    XgàB    XgàB    w¡åB    w¡åB    ÁúêB    ÁúêB    ğsğB    ğsğB    ÃöB    ÃöB    ûÈûB    ûÈûB    0Ó C    0Ó C    _ÓC    _ÓC    såC    såC    Ö	
-C    Ö	
-C    ö@C    ö@C    B‹C    B‹C    -éC    -éC    +[C    +[C    µáC    µáC    D}C    D}C    W."C    W."C    mõ%C    mõ%C    
-Ó)C    
-Ó)C    ´Ç-C    ´Ç-C    ôÓ1C    ôÓ1C    Xø5C    Xø5C    n5:C    n5:C    Ë‹>C    Ë‹>C    üBC    üBC    ·†GC    ·†GC    ~,LC    ~,LC    ûíPC    ûíPC    ÔËUC    ÔËUC    ³ÆZC    ³ÆZC    Cß_C    Cß_C    6eC    6eC    BljC    BljC    âoC    âoC    ŒxuC    ŒxuC    K0{C    K0{C    …€C    …€C    nƒƒC    nƒƒC    ¥“†C    ¥“†C    !¶‰C    !¶‰C    MëŒC    MëŒC    š3C    š3C    z“C    z“C    bÿ–C    bÿ–C    ÈƒšC    ÈƒšC    'C    'C    ıË¡C    ıË¡C    É¥C    É¥C    l©C    l©C    Q^­C    Q^­C    h±C    h±C    ş‰µC    ş‰µC    ‚Ä¹C    ‚Ä¹C    >¾C    >¾C    Ç…ÂC    Ç…ÂC    ¸ÇC    ¸ÇC    ­°ËC    ­°ËC    HoĞC    HoĞC    .JÕC    .JÕC    BÚC    BÚC    €WßC    €WßC    J‹äC    J‹äC    ŞéC    ŞéC    §PïC    §PïC    °ãôC    °ãôC    ÷—úC    ÷—úC    !7 D    !7 D    ­3D    ­3D    	BD    	BD    b	D    b	D    Ø•D    Ø•D    (ÜD    (ÜD    ş5D    ş5D    Ğ£D    Ğ£D    &D    &D    E½D    E½D    ßi!D    ßi!D    a,%D    a,%D    O)D    O)D    /õ,D    /õ,D    ˆü0D    ˆü0D    ç5D    ç5D    ÛS9D    ÛS9D    ÷¤=D    ÷¤=D    ÑBD    ÑBD    •FD    •FD    '5KD    '5KD    âğOD    âğOD    ÖÈTD    ÖÈTD    «½YD    «½YD    Ğ^D    Ğ^D    ² dD    ² dD    FPiD    FPiD    ‡¿nD    ‡¿nD    /OtD    /OtD      zD      zD    ÀÒD    ÀÒD    ä‚D    ä‚D    ğ…D    ğ…D    M‰D    M‰D    —@ŒD    —@ŒD    ê„D    ê„D    ¹Ü’D    ¹Ü’D    vH–D    vH–D    šÈ™D    šÈ™D    ]D    ]D    ü¡D    ü¡D    7È¤D    7È¤D    Ğ¨D    Ğ¨D    LŒ¬D    LŒ¬D    4‘°D    4‘°D    ®´D    ®´D    xã¸D    xã¸D    ö1½D    ö1½D    "šÁD    "šÁD    •ÆD    •ÆD    ì¹ÊD    ì¹ÊD    ÈrÏD    ÈrÏD    ÌGÔD    ÌGÔD     9ÙD     9ÙD    ñHŞD    ñHŞD    mvãD    mvãD    ÊÂèD    ÊÂèD    ¾.îD    ¾.îD    »óD    »óD    ehùD    ehùD    7ÿD    7ÿD    ½”E    ½”E    eŸE    eŸE    0¼E    0¼E    ŠëE    ŠëE    â-E    â-E    ©ƒE    ©ƒE    TíE    TíE    XkE    XkE    /şE    /şE    U¦ E    U¦ E    Jd$E    Jd$E    8(E    8(E    ©#,E    ©#,E     &0E     &0E    @4E    @4E    Ys8E    Ys8E    :¿<E    :¿<E    º$AE    º$AE    q¤EE    q¤EE    ü>JE    ü>JE    ûôNE    ûôNE    ÇSE    ÇSE    åµXE    åµXE    $Â]E    $Â]E    }ìbE    }ìbE    £5hE    £5hE    NmE    NmE    9'sE    9'sE    &ÑxE    &ÑxE    Øœ~E    Øœ~E    E‚E    E‚E    ]N…E    ]N…E    DiˆE    DiˆE    °–‹E    °–‹E    ×E    ×E    Ğ*’E    Ğ*’E    h’•E    h’•E    N™E    N™E    ûœE    ûœE    éD E    éD E    ™ ¤E    ™ ¤E    ‹Ò§E    ‹Ò§E    E»«E    E»«E    N»¯E    N»¯E    2Ó³E    2Ó³E    ~¸E    ~¸E    ÄL¼E    ÄL¼E    š¯ÀE    š¯ÀE    –,ÅE    –,ÅE    WÄÉE    WÄÉE    zwÎE    zwÎE    £FÓE    £FÓE    z2ØE    z2ØE    ª;İE    ª;İE    àbâE    àbâE    Ò¨çE    Ò¨çE    5íE    5íE    Å“òE    Å“òE    B:øE    B:øE    qşE    qşE    öF    öF    †ıF    †ıF    ‹F    ‹F    
-BF    
-BF    o€F    o€F    ,ÒF    ,ÒF    ´7F    ´7F    }±F    }±F     @F     @F    ¸ãF    ¸ãF    $#F    $#F    Æl'F    Æl'F    !S+F    !S+F    ½P/F    ½P/F    %f3F    %f3F    ç“7F    ç“7F    ”Ú;F    ”Ú;F    À:@F    À:@F    µDF    µDF    ûIIF    ûIIF    EúMF    EúMF    „ÆRF    „ÆRF    _¯WF    _¯WF    €µ\F    €µ\F    —ÙaF    —ÙaF    VgF    VgF    s~lF    s~lF    ª rF    ª rF    º£wF    º£wF    gh}F    gh}F    ½§F    ½§F    à¬„F    à¬„F    Ä‡F    Ä‡F    —íŠF    —íŠF    *F    *F    ¾y‘F    ¾y‘F    7İ”F    7İ”F    äT˜F    äT˜F    ?á›F    ?á›F    Â‚ŸF    Â‚ŸF    ì9£F    ì9£F    >§F    >§F    <ëªF    <ëªF    læ®F    læ®F    Zù²F    Zù²F    ”$·F    ”$·F    ©h»F    ©h»F    .Æ¿F    .Æ¿F    »=ÄF    »=ÄF    êÏÈF    êÏÈF    \}ÍF    \}ÍF    ²FÒF    ²FÒF    “,×F    “,×F    ©/ÜF    ©/ÜF    ¡PáF    ¡PáF    /æF    /æF    	ïëF    	ïëF    émñF    émñF    ÷F    ÷F    »ÎüF    »ÎüF    YG    YG    j\G    j\G    ¯qG    ¯qG    W™
-G    W™
-G    ÎÓG    ÎÓG    †!G    †!G    ñ‚G    ñ‚G    „øG    „øG    ¸‚G    ¸‚G    "G    "G    ğÖ"G    ğÖ"G    ô¡&G    ô¡&G    •ƒ*G    •ƒ*G    \|.G    \|.G    ÒŒ2G    ÒŒ2G    „µ6G    „µ6G    ÷:G    ÷:G    âQ?G    âQ?G    ¹ÆCG    ¹ÆCG    #VHG    #VHG    ¿ MG    ¿ MG    .ÇQG    .ÇQG    ªVG    ªVG    "ª[G    "ª[G    şÇ`G    şÇ`G    ^fG    ^fG    õ_kG    õ_kG    €ÛpG    €ÛpG    ¼wvG    ¼wvG    l5|G    l5|G    ¬
-G    ¬
-G    &„G    &„G    Œ‡G    Œ‡G    JEŠG    JEŠG    Ì}G    Ì}G    ƒÉG    ƒÉG    á(”G    á(”G    [œ—G    [œ—G    i$›G    i$›G    ‡ÁG    ‡ÁG    0t¢G    0t¢G    ç<¦G    ç<¦G    .ªG    .ªG    Œ®G    Œ®G    ‹ ²G    ‹ ²G    ·F¶G    ·F¶G    ¡…ºG    ¡…ºG    Üİ¾G    Üİ¾G     PÃG     PÃG    ¦ÜÇG    ¦ÜÇG    m„ÌG    m„ÌG    ÷GÑG    ÷GÑG    é'ÖG    é'ÖG    ì$ÛG    ì$ÛG    ®?àG    ®?àG    áxåG    áxåG    9ÑêG    9ÑêG    pIğG    pIğG    EâõG    EâõG    zœûG    zœûG    k¼ H    k¼ H    ¼H    ¼H    ›ÍH    ›ÍH    pñ	H    pñ	H    ÿ'H    ÿ'H    ¶qH    ¶qH    ÏH    ÏH    j@H    j@H    TÆH    TÆH    AaH    AaH    ¬"H    ¬"H    Ø%H    Ø%H    µ)H    µ)H    ü¨-H    ü¨-H    …´1H    …´1H    .Ø5H    .Ø5H    …:H    …:H    j>H    j>H    ÙBH    ÙBH    scGH    scGH    gLH    gLH    ÉPH    ÉPH    
-¦UH    
-¦UH     ZH     ZH    ±·_H    ±·_H    ¸ídH    ¸ídH    ÓBjH    ÓBjH    ¹·oH    ¹·oH    )MuH    )MuH    å{H    å{H    Zn€H    Zn€H    /lƒH    /lƒH    Ü{†H    Ü{†H    É‰H    É‰H    eÒŒH    eÒŒH    H    H    fu“H    fu“H    ±ä–H    ±ä–H    yhšH    yhšH    5H    5H    d¯¡H    d¯¡H    …s¥H    …s¥H    N©H    N©H    ¬?­H    ¬?­H    ÂH±H    ÂH±H    çiµH    çiµH    ­£¹H    ­£¹H    ¥ö½H    ¥ö½H    ecÂH    ecÂH    ‰êÆH    ‰êÆH    ¬ŒËH    ¬ŒËH    qJĞH    qJĞH    {$ÕH    {$ÕH    sÚH    sÚH    0ßH    0ßH    åbäH    åbäH    Ã´éH    Ã´éH    Z&ïH    Z&ïH    g¸ôH    g¸ôH    ¬kúH    ¬kúH    w  I    w  I    }I    }I    N*I    N*I    UJ	I    UJ	I    ÿ|I    ÿ|I    ºÂI    ºÂI    ùI    ùI    0‰I    0‰I    Ö
-I    Ö
-I    d¡I    d¡I    WM!I    WM!I    0%I    0%I    pç(I    pç(I    Ö,I    Ö,I    ?İ0I    ?İ0I    äû4I    äû4I    39I    39I    rƒ=I    rƒ=I    „íAI    „íAI    èqFI    èqFI    <KI    <KI    !ÌOI    !ÌOI    9£TI    9£TI    /—YI    /—YI    ­¨^I    ­¨^I    eØcI    eØcI    	'iI    	'iI    T•nI    T•nI     $tI     $tI    
-Wave: v(v-)
-WaveYUnitStr: V
-WaveHint: 
-WavePoints: 601
-WaveIsXComplex: TRUE
-WaveIsYComplex: TRUE
-WaveType: 0
-WaveVariableType: NodeVoltage
-WaveDataStart
-  €?    !>.5:Dû‚?    !>f9:O†?    !>
-¸=:‹'‰?    !>U#B:fYŒ?     !>ú¨F:M?    "!>–IK:³ö’?    $!>ÊP:c–?    &!>:ŞT:Íã™?    )!>ÓY:ry?    +!>tæ^:x$¡?    .!>›d:\å¤?    1!>¸gi:£¼¨?    3!>ƒ×n:Ñª¬?    7!>¹gt:n°°?    :!>z:Î´?    =!>qì:,¹?    @!>Bñ‚:lS½?    D!>ş…:`¼Á?    H!>‰:Ÿ?Æ?    L!>«NŒ:ÈİÊ?    P!>Q“:y—Ï?    T!>uë’:XmÔ?    Y!>‰W–:`Ù?    ^!>Ø™:BpŞ?    c!>dm:©ã?    h!> ¡:õëè?    n!>»Ø¤:ßXî?    s!>µ¯¨:#æó?    y!>”¬:‚”ù?    €!>â¢°:Ádÿ?    †!>)À´:Ö«@    !>ùõ¸:·@    •!>ãD½:_Ô@    œ!>~­Á:I@    ¤!>c0Æ:5G@    ­!>/ÎÊ:“@    µ!>‡Ï:Ø@    ¾!>ÿ\Ô:{†@    È!>OOÙ:ó@    Ò!>_Ş:¿Â @    İ!>ã:]$@    è!>ıÙè:PV(@    ó!>yFî:B,@    ÿ!>LÓó:HE0@    ">7ù:c`4@    ">ÿPÿ:ù“8@    '">¸¡;à<@    5">«¬;äFA@    E">ÂÉ;fÇE@    T">kù;ÂbJ@    e"><;–O@    w">,’;†ìS@    ‰">*ü;:ÜX@    œ">ƒz;^é]@    °">±; c@    Å">0¶ ;µ^h@    Û">t$;UÈm@    ò">!I(;;Rs@    
-#>™4,;(ıx@    ##>q70;áÉ~@    =#>3R4;˜\‚@    Y#>o…8;ñe…@    v#>¶Ñ<;eˆ@    ”#>7A;a¯‹@    ´#>¾·E;Rğ@    Õ#>´RJ;ªD’@    ø#> 	O;İ¬•@    $>¦ÛS;a)™@    C$>ìÊX;®ºœ@    k$>×];Ba @    ”$>lc;›¤@    À$>
-Lh;:ğ§@    î$>.µm;¥Ù«@    %>”>s;cÚ¯@    P%>şèx; ó³@    …%>0µ~;
-$¸@    ¼%>ùQ‚;n¼@    ö%>
-[…;®ÑÀ@    2&>4vˆ;vOÅ@    r&>ã£‹;èÉ@    ´&>…ä;ÿ›Î@    ù&>Œ8’;lÓ@    B'>j •;¸XØ@    '>–™;Ëbİ@    Ş'>Š­œ;ëŠâ@    1(>ÀS ;ËÑç@    ‰(>¸¤;#8í@    ä(>óá§;­¾ò@    D)>öÊ«;*fø@    ¨)>IË¯;^/ş@    *>wã³;ŠA    *>¸;A    ò*>]¼;.A    k+>½ÀÀ;«ZA    é+>>Å;£™A    m,>ÖÉ;÷ëA    ø,>{‰Î;RA    ‰->íXÓ;ÌA    !.>EØ;£[A    À.>ƒNİ;   A    f/>ÿuâ;º#A    0>5¼ç;cŠ'A    Ë0>Û!í;nq+A    Š1>¬§ò;¿o/A    R2>hNø;à…3A    $3>Óş;_´7A    ÿ3>Û <Îû;A    å4>î<À\@A    Ö5>!<Ï×DA    Ò6>¢L<–mIA    Ú7>‹<´NA    î8>ìÜ<ÌëRA    :>ƒB<…ÕWA    >;>Y¼<ŠÜ\A    {<>åJ<ŠbA    Ç=>¢î<7EgA    #?>¨#<H¨lA    @>­w'<x+rA    B>ÿ]+<‡ÏwA    œC>[/<:•}A    >E>áp3<¬¾A    ôF>ˆ7<WÄ„A    ¾H>å;<Ü‡A    J>E@<)‹A    •L>)¿D<*CA    £N>åSI<y“‘A    ÊP>êN<‹÷”A    S>ÙÏR<Öo˜A    gU>Y¸W<Ñü›A    àW>¾\<ùŸA    wZ>´áa<ËV£A    ,]>î#g<É$§A    `>w…l<w	«A    ûb>r<\¯A    f>`©w<³A    Zi>@m}<øD·A    Ãl>¸©<Î‰»A    Up>^®„<è¿A    t>ùÄ‡<p`ÄA    ıw>ôíŠ<oóÈA    |>¼)<µ¡ÍA    b€>Àx‘<ãkÒA    á„>qÛ”<¢R×A    –‰>ER˜<›VÜA    „>³İ›<|xáA    ­“>3~Ÿ<÷¸æA    ™>C4£<ÄìA    ½>b §<œ˜ñA    ©¤>ãª<@9÷A    Şª>ÚÜ®<rûüA    ]±>?î²<şoB    *¸>Ï·<ÔsB    I¿>Z»<¤‰B    ¾Æ>¨µ¿<Ú±
-B    ŒÎ>+Ä<äìB    ¹Ö>ÿºÈ<1;B    Hß>øeÍ<5B    ?è>£,Ò<eB    ¡ñ>¢×<9B    tû>šÜ<->B    ¾	>7-á<¾ó"B    ƒ	>%iæ<m¿&B    Ê	>Äë<¾¡*B    ™'	>¿>ñ<9›.B    ö3	>ÙÙö<f¬2B    è@	>"–ü<ÕÕ6B    vN	>-:=;B    ¦\	>¥:=¹s?B    ‚k	>ÛL=ZéCB    {	>9q
-=“yHB    Y‹	>'¨=%MB    fœ	>ò=IìQB    @®	>bO=ĞVB    ğÀ	>À=üĞ[B    ‚Ô	>F=Àï`B    şè	>?à=-fB    pş	>°"=—‰kB    å
->ÓT&=qB    g,
->$0*=T£vB    E
->!".=b|B    Æ^
->M+2=!B    ¿y
->,L6=#„B    ü•
->B…:=s7‡B    ‹³
->×>=¿]ŠB    }Ò
->BBC=Ó–B    áò
->FÇG=ãB    Ê>·fL=C”B    J8>*!Q=,·—B    r]>7÷U=Ú?›B    X„>véZ=›İB    ­>„ø_=ì¢B    ®×>%e=NZ¦B    J>oj=D:ªB    û2>ÒØo=V1®B    Ûc>sau=@²B    —>
-{=ôf¶B    Ì>¾i€=Ÿ¦ºB    –> _ƒ=Ÿÿ¾B    <?>e†=ŒrÃB    |>g}‰=  ÈB    Ù¼>§Œ=š¨ÌB     >¿â=ûlÑB    lF>ı0“=ÊMÖB    
->’–=¯KÛB    İ>}š=XgàB    ¯->„=w¡åB    ‚>”*¡=ÁúêB    JÚ>Û¤=ğsğB    ¡6>g ¨=ÃöB    =—>÷z¬=ûÈûB    Pü>+k°=0Ó C    f>mq´=_ÓC    ¬Ô>%¸=såC    cH>ÀÁ¼=Ö	
-C    nÁ>¨Á=ö@C    	@>IoÅ=B‹C    tÄ>êÉ=-éC    òN>f}Î=+[C    Èß>»)Ó=µáC    >w>zï×=D}C    Ÿ>ÏÜ=W."C    :»>èÈá=mõ%C    _h>mİæ=
-Ó)C    d>
-ì=´Ç-C     Ú>'Xñ=ôÓ1C    p >.¿ö=Xø5C    1o>…Bü=n5:C    HG>Hñ >Ë‹>C    )>ÙÏ>üBC    >%½>·†GC    ¤>[¹	>~,LC    <>©Ä>ûíPC    T >8ß>ÔËUC    g3!>4	>³ÆZC    õX">ÂB>Cß_C    ‚‹#>Œ>6eC    ™Ë$>%å>BljC    Ç&>;N >âoC    v'>dÇ#>ŒxuC    ¶â(>¹P'>K0{C    «^*>Nê*>…€C    ë+>3”.>nƒƒC    ¸ˆ->sN2>¥“†C    "8/>6>!¶‰C    ú0>ô9>MëŒC    +Ï2>~ß=>š3C    ;¸4>6ÛA>z“C    úµ6>2çE>bÿ–C    +É8>YJ>ÈƒšC    —ò:>/N>'C    3=>¦kR>ıË¡C    [‹?>u·V>É¥C    YüA>À[>l©C    à†D>H}_>Q^­C    Î+G>Àöc>h±C    ìI>Ñ~h>ş‰µC    cÈL>m>‚Ä¹C    ÔÁO>3¹q>>¾C    AÙR>jv>Ç…ÂC    ’V>Ø({>¸ÇC    ´eY>Oó>­°ËC    “Ü\>±d‚>HoĞC    u`>3Õ„>.JÕC    ;0d>ÎJ‡>BÚC    Ùh>Å‰>€WßC    àl>°CŒ>J‹äC    5:p>Æ>ŞéC    ·ˆt>ÌK‘>§PïC    Cşx>PÔ“>°ãôC    °›}>_–>÷—úC    å0>zë˜>!7 D    ­¨ƒ>êx›>­3D    5†>¹>	BD    á×ˆ>6” >b	D    ø‹>§ £>Ø•D     ^>I«¥>(ÜD    B‘>S3¨>ş5D    ¬=”>ğ·ª>Ğ£D    €O—>H8­>&D    Dxš>v³¯>E½D    ¸>’(²>ßi!D    ¡>ª–´>a,%D    /}¤>Éü¶>O)D    {¨>òY¹>/õ,D    Ş«>#­»>ˆü0D    <R¯>Võ½>ç5D    g³>‚1À>ÛS9D    #ı¶>œ`Â>÷¤=D    'ôº>–Ä>ÑBD    ¿>`“Æ>•FD    ˆ#Ã>î”È>'5KD     [Ç>2…Ê>âğOD    ó¦Ë>#cÌ>ÖÈTD    ÄĞ>¹-Î>«½YD    ÇyÔ>ôãÏ>Ğ^D    >ÿØ>×„Ñ>² dD    [–İ>qÓ>FPiD    @>â>Ô‚Ô>‡¿nD     öæ>!ŞÕ>/OtD    ¼ë>€ ×>  zD    ‘ğ>*IØ>ÀÒD    9rõ>aWÙ>ä‚D    ø^ú>xJÚ>ğ…D    Vÿ>Ñ!Û>M‰D    2+?ßÜÛ>—@ŒD    H¯?'{Ü>ê„D    §6??üÜ>¹Ü’D    ¦À	?Ñ_İ>vH–D    —L?™¥İ>šÈ™D    ËÙ?iÍİ>]D    ‘g?$×İ>ü¡D    8õ?ÆÂİ>7È¤D    ‚?[İ>Ğ¨D    c?@İ>LŒ¬D    ˆ–?ıÑÜ>4‘°D    Ò?‰FÜ>®´D    –Ÿ ?	Û>xã¸D    /#?ìØÚ>ö1½D    ü—%?´÷Ù>"šÁD    a(?õúØ>•ÆD    Çz*?Qã×>ì¹ÊD    â,?{±Ö>ÈrÏD    \C/?5fÕ>ÌGÔD    }œ1?LÔ> 9ÙD    …í3?š†Ò>ñHŞD    66?ôĞ>mvãD    †u8?zKÏ>ÊÂèD    ®«:?ñÍ>¾.îD    Ø<?f¼Ë>»óD    ú>?İ×É>ehùD    A?_áÇ>7ÿD     C?õÙÅ>½”E    Ÿ"E?­ÂÃ>eŸE    6G?—œÁ>0¼E    ›I?¿h¿>ŠëE    ­çJ?4(½>â-E    O½L? Üº>©ƒE    m‡N?+…¸>TíE    üEP?º$¶>XkE    öøQ?­»³>/şE    Y S?şJ±>U¦ E    .<U?¡Ó®>Jd$E    ÌV?…V¬>8(E    cQX?‘Ô©>©#,E    êÊY?¥N§> &0E    39[?˜Å¤>@4E    ]œ\?;:¢>Ys8E    Œô]?U­Ÿ>:¿<E    æA_?¦>º$AE    —„`?ä‘š>q¤EE    Ì¼a?¾˜>ü>JE    µêb?Øx•>ûôNE    …d?Ïî’>ÇSE    o(e?8g>åµXE    ª8f?â>$Â]E    m?g?„a‹>}ìbE    ñ<h?däˆ>£5hE    o1i?²k†>NmE    "j?Ù÷ƒ>9'sE    D k?:‰>&ÑxE    Ûk?g@~>Øœ~E    Ä­l?/zy>E‚E    —xm?jÀt>]N…E    Å;n?¤p>DiˆE    Š÷n?^tk>°–‹E    ¬o?ãf>×E    ¼Yp?`b>Ğ*’E    œ q?Üë]>h’•E    ö q?¬†Y>N™E    ;r?Ñ0U>ûœE    ôÎr?‡êP>éD E    ]s?´L>™ ¤E    aås?vH>‹Ò§E    Bht? wD>E»«E    Ùåt?¿p@>N»¯E    T^u?Èz<>2Ó³E    åÑu?*•8>~¸E    ¸@v?í¿4>ÄL¼E    úªv?û0>š¯ÀE    Øw?™F->–,ÅE    |rw?w¢)>WÄÉE    Ğw?Ÿ&>zwÎE    ¶)x?‹">£FÓE    œx?†>z2ØE    åÑx?´>ª;İE    µ y?‘`>àbâE    .ly?Û>Ò¨çE    t´y?Ïè>5íE    ¦ùy?HÄ>Å“òE    ä;z?¯>B:øE    M{z?(©>qşE    ÿ·z?9²>öF    òz?#Ê>†ıF    ª){?qáÿ=‹F    Ú^{?Kú=
-BF    ½‘{?>Òô=o€F    lÂ{?uï=,ÒF    ÿğ{?¸3ê=´7F    Œ|?³å=}±F    (H|?Ÿà= @F    ép|?Û=¸ãF    ã—|?¤;Ö=$#F    )½|?ä~Ñ=Æl'F    Íà|?hÛÌ=!S+F    á}?ÃPÈ=½P/F    v#}?‰ŞÃ=%f3F    B}?N„¿=ç“7F    f`}?¥A»=”Ú;F    ß|}?$·=À:@F    ˜}?^³=µDF    ²}?ê¯=ûIIF    ùÊ}?^«=EúMF    ¾â}?QG§=„ÆRF    vù}?[‰£=_¯WF    -~?àŸ=€µ\F    î#~?Kœ=—ÙaF    Ã7~?Ê˜=VgF    ¶J~?s\•=s~lF    Ó\~? ’=ª rF    "n~?Kº=º£wF    «~~?ö„‹=gh}F    y~? aˆ=½§F    ’~?îO…=à¬„F     ¬~?‚O‚=Ä‡F    É¹~?À~=—íŠF    õÆ~?0y=*F    ŠÓ~?Ñds=¾y‘F    ß~?>çm=7İ”F    ë~?Ëˆh=äT˜F    ö~?ÔHc=?á›F    ‚ ?²&^=Â‚ŸF    †
-?Æ!Y=ì9£F    ?q9T=>§F    <?mO=<ëªF    ÷%? ¼J=læ®F    N.?ö%F=Zù²F    F6?ªA=”$·F    ã=?½G==©h»F    (E?ş8=.Æ¿F    L?ôÍ4=»=ÄF    ½R?`µ0=êÏÈF    Y?N´,=\}ÍF    !_?<Ê(=²FÒF    éd?©ö$=“,×F    oj?9!=©/ÜF    µo?
-‘=¡PáF    ¿t?
-ş=/æF    y? =	ïëF    (~?Y=émñF    Œ‚?Â¾=÷F    ¾†?l{=»ÎüF    ¿Š?ëJ	=YG    “?Ó,=j\G    :’?¼ =¯qG    ¸•?@& =W™
-G    ™?ôyú<ÎÓG    <œ?Éô<†!G    FŸ?9ï<ñ‚G    .¢?KÉé<„øG    ô¤?óxä<¸‚G    š§?\Gß<"G    "ª?Ö3Ú<ğÖ"G    Œ¬?µ=Õ<ô¡&G    Û®?PdĞ<•ƒ*G    ±?§Ë<\|.G    *³?*Ç<ÒŒ2G    ,µ?+~Â<„µ6G    ·?h¾<÷:G    í¸?M¾¹<âQ?G    ­º?D„µ<¹ÆCG    Z¼?½b±<#VHG    ò½?,Y­<¿ MG    y¿?g©<.ÇQG    îÀ?Á‹¥<ªVG    RÂ?ŞÆ¡<"ª[G    ¦Ã?Ø<şÇ`G    êÄ?1~š<^fG     Æ?où–<õ_kG    IÇ?‰“<€ÛpG    cÈ?µ,<¼wvG    qÉ?ÔãŒ<l5|G    sÊ?®‰<¬
-G    iË?ÔŠ†<&„G    TÌ?Úyƒ<Œ‡G    5Í?¬z€<JEŠG    Î?Æ{<Ì}G    ØÎ?4`u<ƒÉG    ›Ï?ÛÇo<á(”G    VĞ?ûOj<[œ—G    Ñ?Ø÷d<i$›G    ²Ñ?¸¾_<‡ÁG    UÒ?è£Z<0t¢G    ğÒ?¶¦U<ç<¦G    „Ó?wÆP<.ªG    Ô?‚L<Œ®G    ˜Ô?3ZG<‹ ²G    Õ?çÌB<·F¶G    ”Õ?Z><¡…ºG    	Ö?ë :<Üİ¾G    yÖ?Á5< PÃG    äÖ?Í™1<¦ÜÇG    J×?£Š-<m„ÌG    «×?“)<÷GÑG    Ø?\²%<é'ÖG    `Ø?/è!<ì$ÛG    µØ?÷3<®?àG    Ù?2•<áxåG    RÙ?d<9ÑêG    œÙ?–<pIğG    âÙ?Å4<EâõG    $Ú?ç<zœûG    dÚ?e¬	<k¼ H     Ú?o„<¼H    ÚÚ?ºn<›ÍH    Û?Øj <pñ	H    EÛ?Æğú;ÿ'H    wÛ?ç-õ;¶qH    ¦Û?KŒï;ÏH    ÔÛ?0ê;j@H    ÿÛ?×©ä;TÆH    'Ü?…gß;AaH    NÜ?„CÚ;¬"H    sÜ?!=Õ;Ø%H    –Ü?®SĞ;µ)H    ·Ü?‚†Ë;ü¨-H    ×Ü?õÔÆ;…´1H    ôÜ?e>Â;.Ø5H    İ?3Â½;…:H    +İ?Ã_¹;j>H    Dİ?}µ;ÙBH    \İ?Íå°;scGH    sİ?"Í¬;gLH    ˆİ?íË¨;ÉPH    œİ?¤á¤;
-¦UH    ®İ?¿¡; ZH    Àİ?ºO;±·_H    Ğİ?§™;¸ídH    ßİ?J–;ÓBjH    íİ?æ“’;¹·oH    úİ?l(;)MuH    Ş?fĞ‹;å{H    Ş?`‹ˆ;Zn€H    Ş?êX…;/lƒH    $Ş?”8‚;Ü{†H    ,Ş?çS~;É‰H    3Ş?=Yx;eÒŒH    9Ş?[€r;H    ?Ş?wÈl;fu“H    CŞ?Ì0g;±ä–H    GŞ?›¸a;yhšH    JŞ?%_\;5H    LŞ?´#W;d¯¡H    MŞ?“R;…s¥H    MŞ?M;N©H    LŞ?‰H;¬?­H    KŞ?KTC;ÂH±H    IŞ?·¤>;çiµH    FŞ?,:;­£¹H    BŞ?“5;¥ö½H    =Ş?Â/1;ecÂH    7Ş?¶ä,;‰êÆH    1Ş?W±(;¬ŒËH    *Ş?•$;qJĞH    "Ş?h ;{$ÕH    Ş?ÅŸ;sÚH    Ş?ªÅ;0ßH    Ş?• ;åbäH    øİ?P;Ã´éH    ìİ?†³;Z&ïH    Şİ?š*
-;g¸ôH    Ïİ?Í´;¬kúH    Àİ?­Q;w  I    ¯İ?Ë  ;}I    İ?uƒù:N*I    ‹İ?%(ó:UJ	I    wİ?Öîì:ÿ|I    bİ?ÂÖæ:ºÂI    Lİ?%ßà:ùI    5İ?AÛ:0‰I    İ?_NÕ:Ö
-I    İ?Ì³Ï:d¡I    éÜ?Ø6Ê:WM!I    ÍÜ?İÖÄ:0%I    ¯Ü?5“¿:pç(I    ‘Ü?Ckº:Ö,I    qÜ?l^µ:?İ0I    PÜ?l°:äû4I    -Ü?À“«:39I    	Ü?ĞÔ¦:rƒ=I    ãÛ?Ã.¢:„íAI    ¼Û?¡:èqFI    “Û?T+™:<KI    iÛ?úÌ”:!ÌOI    =Û?˜…:9£TI    Û?½TŒ:/—YI    àÚ?ÿ9ˆ:­¨^I    °Ú?ö4„:eØcI    }Ú??E€:	'iI    IÚ?õÔx:T•nI    Ú?ŸHq: $tI    ÜÙ?Ìäi:
-Wave: v(vin)
-WaveYUnitStr: V
-WaveHint: 
-WavePoints: 601
-WaveIsXComplex: TRUE
-WaveIsYComplex: TRUE
-WaveType: 0
-WaveVariableType: NodeVoltage
-WaveDataStart
-  €?      €?    Dû‚?      €?    O†?      €?    ‹'‰?      €?    fYŒ?      €?    M?      €?    ³ö’?      €?    c–?      €?    Íã™?      €?    ry?      €?    x$¡?      €?    \å¤?      €?    £¼¨?      €?    Ñª¬?      €?    n°°?      €?    Î´?      €?    ,¹?      €?    lS½?      €?    `¼Á?      €?    Ÿ?Æ?      €?    ÈİÊ?      €?    y—Ï?      €?    XmÔ?      €?    `Ù?      €?    BpŞ?      €?    ©ã?      €?    õëè?      €?    ßXî?      €?    #æó?      €?    ‚”ù?      €?    Ádÿ?      €?    Ö«@      €?    ·@      €?    _Ô@      €?    I@      €?    5G@      €?    “@      €?    Ø@      €?    {†@      €?    ó@      €?    ¿Â @      €?    ]$@      €?    PV(@      €?    B,@      €?    HE0@      €?    c`4@      €?    ù“8@      €?    à<@      €?    äFA@      €?    fÇE@      €?    ÂbJ@      €?    –O@      €?    †ìS@      €?    :ÜX@      €?    ^é]@      €?     c@      €?    µ^h@      €?    UÈm@      €?    ;Rs@      €?    (ıx@      €?    áÉ~@      €?    ˜\‚@      €?    ñe…@      €?    eˆ@      €?    a¯‹@      €?    Rğ@      €?    ªD’@      €?    İ¬•@      €?    a)™@      €?    ®ºœ@      €?    Ba @      €?    ›¤@      €?    :ğ§@      €?    ¥Ù«@      €?    cÚ¯@      €?     ó³@      €?    
-$¸@      €?    n¼@      €?    ®ÑÀ@      €?    vOÅ@      €?    èÉ@      €?    ÿ›Î@      €?    lÓ@      €?    ¸XØ@      €?    Ëbİ@      €?    ëŠâ@      €?    ËÑç@      €?    #8í@      €?    ­¾ò@      €?    *fø@      €?    ^/ş@      €?    ŠA      €?    A      €?    .A      €?    «ZA      €?    £™A      €?    ÷ëA      €?    RA      €?    ÌA      €?    £[A      €?       A      €?    º#A      €?    cŠ'A      €?    nq+A      €?    ¿o/A      €?    à…3A      €?    _´7A      €?    Îû;A      €?    À\@A      €?    Ï×DA      €?    –mIA      €?    ´NA      €?    ÌëRA      €?    …ÕWA      €?    ŠÜ\A      €?    ŠbA      €?    7EgA      €?    H¨lA      €?    x+rA      €?    ‡ÏwA      €?    :•}A      €?    ¬¾A      €?    WÄ„A      €?    Ü‡A      €?    )‹A      €?    *CA      €?    y“‘A      €?    ‹÷”A      €?    Öo˜A      €?    Ñü›A      €?    ùŸA      €?    ËV£A      €?    É$§A      €?    w	«A      €?    \¯A      €?    ³A      €?    øD·A      €?    Î‰»A      €?    è¿A      €?    p`ÄA      €?    oóÈA      €?    µ¡ÍA      €?    ãkÒA      €?    ¢R×A      €?    ›VÜA      €?    |xáA      €?    ÷¸æA      €?    ÄìA      €?    œ˜ñA      €?    @9÷A      €?    rûüA      €?    şoB      €?    ÔsB      €?    ¤‰B      €?    Ú±
-B      €?    äìB      €?    1;B      €?    5B      €?    eB      €?    9B      €?    ->B      €?    ¾ó"B      €?    m¿&B      €?    ¾¡*B      €?    9›.B      €?    f¬2B      €?    ÕÕ6B      €?    ;B      €?    ¹s?B      €?    ZéCB      €?    “yHB      €?    %MB      €?    IìQB      €?    ĞVB      €?    üĞ[B      €?    Àï`B      €?    -fB      €?    —‰kB      €?    qB      €?    T£vB      €?    b|B      €?    !B      €?    #„B      €?    s7‡B      €?    ¿]ŠB      €?    Ó–B      €?    ãB      €?    C”B      €?    ,·—B      €?    Ú?›B      €?    ›İB      €?    ì¢B      €?    NZ¦B      €?    D:ªB      €?    V1®B      €?    @²B      €?    ôf¶B      €?    Ÿ¦ºB      €?    Ÿÿ¾B      €?    ŒrÃB      €?      ÈB      €?    š¨ÌB      €?    ûlÑB      €?    ÊMÖB      €?    ¯KÛB      €?    XgàB      €?    w¡åB      €?    ÁúêB      €?    ğsğB      €?    ÃöB      €?    ûÈûB      €?    0Ó C      €?    _ÓC      €?    såC      €?    Ö	
-C      €?    ö@C      €?    B‹C      €?    -éC      €?    +[C      €?    µáC      €?    D}C      €?    W."C      €?    mõ%C      €?    
-Ó)C      €?    ´Ç-C      €?    ôÓ1C      €?    Xø5C      €?    n5:C      €?    Ë‹>C      €?    üBC      €?    ·†GC      €?    ~,LC      €?    ûíPC      €?    ÔËUC      €?    ³ÆZC      €?    Cß_C      €?    6eC      €?    BljC      €?    âoC      €?    ŒxuC      €?    K0{C      €?    …€C      €?    nƒƒC      €?    ¥“†C      €?    !¶‰C      €?    MëŒC      €?    š3C      €?    z“C      €?    bÿ–C      €?    ÈƒšC      €?    'C      €?    ıË¡C      €?    É¥C      €?    l©C      €?    Q^­C      €?    h±C      €?    ş‰µC      €?    ‚Ä¹C      €?    >¾C      €?    Ç…ÂC      €?    ¸ÇC      €?    ­°ËC      €?    HoĞC      €?    .JÕC      €?    BÚC      €?    €WßC      €?    J‹äC      €?    ŞéC      €?    §PïC      €?    °ãôC      €?    ÷—úC      €?    !7 D      €?    ­3D      €?    	BD      €?    b	D      €?    Ø•D      €?    (ÜD      €?    ş5D      €?    Ğ£D      €?    &D      €?    E½D      €?    ßi!D      €?    a,%D      €?    O)D      €?    /õ,D      €?    ˆü0D      €?    ç5D      €?    ÛS9D      €?    ÷¤=D      €?    ÑBD      €?    •FD      €?    '5KD      €?    âğOD      €?    ÖÈTD      €?    «½YD      €?    Ğ^D      €?    ² dD      €?    FPiD      €?    ‡¿nD      €?    /OtD      €?      zD      €?    ÀÒD      €?    ä‚D      €?    ğ…D      €?    M‰D      €?    —@ŒD      €?    ê„D      €?    ¹Ü’D      €?    vH–D      €?    šÈ™D      €?    ]D      €?    ü¡D      €?    7È¤D      €?    Ğ¨D      €?    LŒ¬D      €?    4‘°D      €?    ®´D      €?    xã¸D      €?    ö1½D      €?    "šÁD      €?    •ÆD      €?    ì¹ÊD      €?    ÈrÏD      €?    ÌGÔD      €?     9ÙD      €?    ñHŞD      €?    mvãD      €?    ÊÂèD      €?    ¾.îD      €?    »óD      €?    ehùD      €?    7ÿD      €?    ½”E      €?    eŸE      €?    0¼E      €?    ŠëE      €?    â-E      €?    ©ƒE      €?    TíE      €?    XkE      €?    /şE      €?    U¦ E      €?    Jd$E      €?    8(E      €?    ©#,E      €?     &0E      €?    @4E      €?    Ys8E      €?    :¿<E      €?    º$AE      €?    q¤EE      €?    ü>JE      €?    ûôNE      €?    ÇSE      €?    åµXE      €?    $Â]E      €?    }ìbE      €?    £5hE      €?    NmE      €?    9'sE      €?    &ÑxE      €?    Øœ~E      €?    E‚E      €?    ]N…E      €?    DiˆE      €?    °–‹E      €?    ×E      €?    Ğ*’E      €?    h’•E      €?    N™E      €?    ûœE      €?    éD E      €?    ™ ¤E      €?    ‹Ò§E      €?    E»«E      €?    N»¯E      €?    2Ó³E      €?    ~¸E      €?    ÄL¼E      €?    š¯ÀE      €?    –,ÅE      €?    WÄÉE      €?    zwÎE      €?    £FÓE      €?    z2ØE      €?    ª;İE      €?    àbâE      €?    Ò¨çE      €?    5íE      €?    Å“òE      €?    B:øE      €?    qşE      €?    öF      €?    †ıF      €?    ‹F      €?    
-BF      €?    o€F      €?    ,ÒF      €?    ´7F      €?    }±F      €?     @F      €?    ¸ãF      €?    $#F      €?    Æl'F      €?    !S+F      €?    ½P/F      €?    %f3F      €?    ç“7F      €?    ”Ú;F      €?    À:@F      €?    µDF      €?    ûIIF      €?    EúMF      €?    „ÆRF      €?    _¯WF      €?    €µ\F      €?    —ÙaF      €?    VgF      €?    s~lF      €?    ª rF      €?    º£wF      €?    gh}F      €?    ½§F      €?    à¬„F      €?    Ä‡F      €?    —íŠF      €?    *F      €?    ¾y‘F      €?    7İ”F      €?    äT˜F      €?    ?á›F      €?    Â‚ŸF      €?    ì9£F      €?    >§F      €?    <ëªF      €?    læ®F      €?    Zù²F      €?    ”$·F      €?    ©h»F      €?    .Æ¿F      €?    »=ÄF      €?    êÏÈF      €?    \}ÍF      €?    ²FÒF      €?    “,×F      €?    ©/ÜF      €?    ¡PáF      €?    /æF      €?    	ïëF      €?    émñF      €?    ÷F      €?    »ÎüF      €?    YG      €?    j\G      €?    ¯qG      €?    W™
-G      €?    ÎÓG      €?    †!G      €?    ñ‚G      €?    „øG      €?    ¸‚G      €?    "G      €?    ğÖ"G      €?    ô¡&G      €?    •ƒ*G      €?    \|.G      €?    ÒŒ2G      €?    „µ6G      €?    ÷:G      €?    âQ?G      €?    ¹ÆCG      €?    #VHG      €?    ¿ MG      €?    .ÇQG      €?    ªVG      €?    "ª[G      €?    şÇ`G      €?    ^fG      €?    õ_kG      €?    €ÛpG      €?    ¼wvG      €?    l5|G      €?    ¬
-G      €?    &„G      €?    Œ‡G      €?    JEŠG      €?    Ì}G      €?    ƒÉG      €?    á(”G      €?    [œ—G      €?    i$›G      €?    ‡ÁG      €?    0t¢G      €?    ç<¦G      €?    .ªG      €?    Œ®G      €?    ‹ ²G      €?    ·F¶G      €?    ¡…ºG      €?    Üİ¾G      €?     PÃG      €?    ¦ÜÇG      €?    m„ÌG      €?    ÷GÑG      €?    é'ÖG      €?    ì$ÛG      €?    ®?àG      €?    áxåG      €?    9ÑêG      €?    pIğG      €?    EâõG      €?    zœûG      €?    k¼ H      €?    ¼H      €?    ›ÍH      €?    pñ	H      €?    ÿ'H      €?    ¶qH      €?    ÏH      €?    j@H      €?    TÆH      €?    AaH      €?    ¬"H      €?    Ø%H      €?    µ)H      €?    ü¨-H      €?    …´1H      €?    .Ø5H      €?    …:H      €?    j>H      €?    ÙBH      €?    scGH      €?    gLH      €?    ÉPH      €?    
-¦UH      €?     ZH      €?    ±·_H      €?    ¸ídH      €?    ÓBjH      €?    ¹·oH      €?    )MuH      €?    å{H      €?    Zn€H      €?    /lƒH      €?    Ü{†H      €?    É‰H      €?    eÒŒH      €?    H      €?    fu“H      €?    ±ä–H      €?    yhšH      €?    5H      €?    d¯¡H      €?    …s¥H      €?    N©H      €?    ¬?­H      €?    ÂH±H      €?    çiµH      €?    ­£¹H      €?    ¥ö½H      €?    ecÂH      €?    ‰êÆH      €?    ¬ŒËH      €?    qJĞH      €?    {$ÕH      €?    sÚH      €?    0ßH      €?    åbäH      €?    Ã´éH      €?    Z&ïH      €?    g¸ôH      €?    ¬kúH      €?    w  I      €?    }I      €?    N*I      €?    UJ	I      €?    ÿ|I      €?    ºÂI      €?    ùI      €?    0‰I      €?    Ö
-I      €?    d¡I      €?    WM!I      €?    0%I      €?    pç(I      €?    Ö,I      €?    ?İ0I      €?    äû4I      €?    39I      €?    rƒ=I      €?    „íAI      €?    èqFI      €?    <KI      €?    !ÌOI      €?    9£TI      €?    /—YI      €?    ­¨^I      €?    eØcI      €?    	'iI      €?    T•nI      €?     $tI      €?    
-Wave: v(vout)
-WaveYUnitStr: V
-WaveHint: 
-WavePoints: 601
-WaveIsXComplex: TRUE
-WaveIsYComplex: TRUE
-WaveType: 0
-WaveVariableType: NodeVoltage
-WaveDataStart
-  €?    j»XÄU1?Dû‚?    i»XÄr<5?O†?    i»XÄ(u9?‹'‰?    h»XÄ
-Ç=?fYŒ?    h»XÄ®2B?M?    g»XÄ¯¸F?³ö’?    g»XÄ¨YK?c–?    f»XÄ<P?Íã™?    e»XÄïT?ry?    e»XÄÇäY?x$¡?    d»XÄø^?\å¤?    d»XÄ¤)d?£¼¨?    c»XÄ,zi?Ñª¬?    b»XÄeên?n°°?    a»XÄ{t?Î´?    a»XÄâ,z?,¹?    `»XÄV €?lS½?    _»XÄœû‚?`¼Á?    ^»XÄ¨†?Ÿ?Æ?    ]»XÄæ'‰?ÈİÊ?    \»XÄÂYŒ?y—Ï?    [»XÄ«?XmÔ?    Z»XÄ÷’?`Ù?    X»XÄlc–?BpŞ?    W»XÄ/ä™?©ã?    V»XÄÖy?õëè?    U»XÄÜ$¡?ßXî?    S»XÄÂå¤?#æó?    R»XÄ
-½¨?‚”ù?    P»XÄ9«¬?Ádÿ?    O»XÄØ°°?Ö«@    M»XÄrÎ´?·@    K»XÄ—¹?_Ô@    I»XÄÙS½?I@    G»XÄÍ¼Á?5G@    E»XÄ@Æ?“@    C»XÄ6ŞÊ?Ø@    A»XÄè—Ï?{†@    ?»XÄÇmÔ?ó@    <»XÄ{`Ù?¿Â @    :»XÄ±pŞ?]$@    7»XÄŸã?PV(@    4»XÄdìè?B,@    1»XÄMYî?HE0@    .»XÄæó?c`4@    +»XÄî”ù?ù“8@    '»XÄ,eÿ?à<@    $»XÄ
-¬@äFA@     »XÄ:·@fÇE@    »XÄ‘Ô@ÂbJ@    »XÄz@–O@    »XÄdG@†ìS@    »XÄÀ@:ÜX@    »XÄ@^é]@    »XÄ£†@ c@    »XÄ@µ^h@    ûºXÄâÂ @UÈm@    öºXÄ|$@;Rs@    ğºXÄjV(@(ıx@    êºXÄ2B,@áÉ~@    ãºXÄZE0@˜\‚@    İºXÄp`4@ñe…@    ÕºXÄ ”8@eˆ@    ÎºXÄà<@a¯‹@    ÆºXÄİFA@Rğ@    ¾ºXÄYÇE@ªD’@    ¶ºXÄ¬bJ@İ¬•@    ­ºXÄwO@a)™@    £ºXÄ]ìS@®ºœ@    šºXÄÜX@Ba @    ºXÄé]@›¤@    …ºXÄTc@:ğ§@    zºXÄ\^h@¥Ù«@    nºXÄìÇm@cÚ¯@    bºXÄÂQs@ ó³@    UºXÄüx@
-$¸@    GºXÄDÉ~@n¼@    9ºXÄ?\‚@®ÑÀ@    *ºXÄŒe…@vOÅ@    ºXÄõ€ˆ@èÉ@    ºXÄã®‹@ÿ›Î@    ú¹XÄÆï@lÓ@    è¹XÄD’@¸XØ@    Õ¹XÄ2¬•@Ëbİ@    Â¹XÄ¤(™@ëŠâ@    ­¹XÄŞ¹œ@ËÑç@    ˜¹XÄ^` @#8í@    ‚¹XÄ ¤@­¾ò@    j¹XÄ'ï§@*fø@    R¹XÄxØ«@^/ş@    8¹XÄÙ¯@ŠA    ¹XÄšñ³@A    ¹XÄƒ"¸@.A    ä¸XÄil¼@«ZA    Å¸XÄàÏÀ@£™A    ¤¸XÄ€MÅ@÷ëA    ƒ¸XÄäåÉ@RA    _¸XÄ®™Î@ÌA    :¸XÄiÓ@£[A    ¸XÄÿUØ@   A    ë·XÄÙ_İ@º#A    À·XÄ»‡â@cŠ'A    “·XÄXÎç@nq+A    e·XÄh4í@¿o/A    4·XÄ¥ºò@à…3A    ·XÄĞaø@_´7A    Ë¶XÄ«*ş@Îû;A    “¶XÄAÀ\@A    X¶XÄOAÏ×DA    ¶XÄª+A–mIA    ÚµXÄ}WA´NA    –µXÄ6–AÌëRA    PµXÄEèA…ÕWA    µXÄNAŠÜ\A    ¸´XÄ6ÈAŠbA    g´XÄWA7EgA    ´XÄ	ûAH¨lA    ¹³XÄ½´#Ax+rA    \³XÄ£„'A‡ÏwA    ú²XÄ?k+A:•}A    ”²XÄi/A¬¾A    )²XÄ¹~3AWÄ„A    ¹±XÄ®¬7AÜ‡A    D±XÄ‰ó;A)‹A    É°XÄŞS@A*CA    H°XÄCÎDAy“‘A    Â¯XÄScIA‹÷”A    5¯XÄ®NAÖo˜A    ¡®XÄõßRAÑü›A    ®XÄÎÈWAùŸA    d­XÄâÎ\AËV£A    »¬XÄßòaAÉ$§A    	¬XÄw5gAw	«A    O«XÄ`—lA\¯A    ªXÄRrA³A    Á©XÄ¼wAøD·A    ì¨XÄQ€}AÎ‰»A    ¨XÄs³Aè¿A    "§XÄL¸„Ap`ÄA    -¦XÄÏ‡AoóÈA    -¥XÄLøŠAµ¡ÍA     ¤XÄI4AãkÒA    £XÄƒƒ‘A¢R×A    à¡XÄlæ”A›VÜA    ¬ XÄx]˜A|xáA    iŸXÄé›A÷¸æA    XÄ×‰ŸAÄìA    µœXÄ @£Aœ˜ñA    B›XÄy§A@9÷A    ¾™XÄdïªArûüA    (˜XÄeé®AşoB    ~–XÄû²AÔsB    Á”XÄĞ$·A¤‰B    î’XÄSg»AÚ±
-B    ‘XÄ Ã¿AäìB    XÄÌ8ÄA1;B    ïŒXÄîÈÈA5B    ¾ŠXÄ"tÍAeB    sˆXÄ;ÒA9B    †XÄA×A->B    ‰ƒXÄsÜA¾ó"B    ç€XÄH<áAm¿&B    %~XÄnxæA¾¡*B    C{XÄ–ÓëA9›.B    =xXÄtNñAf¬2B    uXÄÃéöAÕÕ6B    ÃqXÄ>¦üA;B    LnXÄSBB¹s?B    ªjXÄáBBZéCB    İfXÄ.UB“yHB    âbXÄ y
-B%MB    ·^XÄ °BIìQB    [ZXÄšúBĞVB    ÉUXÄûWBüĞ[B    QXÄ4ÉBÀï`B    ÿKXÄ¶NB-fB    ÂFXÄöèB—‰kB    EAXÄk˜"BqB    †;XÄ]&BT£vB    ƒ5XÄİ8*Bb|B    7/XÄÔ*.B!B    Ÿ(XÄö32B#„B    ¹!XÄÄT6Bs7‡B    XÄÇ:B¿]ŠB    ïXÄ…ß>BÓ–B    XÄŒJCBãB    »XÄhÏGBC”B    úWÄ¬nLB,·—B    úğWÄé(QBÚ?›B    xçWÄ·şUB›İB    …İWÄ¯ğZBì¢B    ÓWÄlÿ_BNZ¦B    4ÈWÄ+eBD:ªB    Ê¼WÄ³ujBV1®B    Ù°WÄ‚ŞoB@²B    X¤WÄ¢fuBôf¶B    C—WÄ»{BŸ¦ºB    ‘‰WÄ½k€BŸÿ¾B    <{WÄÈ`ƒBŒrÃB    <lWÄÖf†B  ÈB    ‰\WÄB~‰Bš¨ÌB    LWÄg§ŒBûlÑB    ê:WÄ£âBÊMÖB    í(WÄT0“B¯KÛB    WÄØ–BXgàB    fWÄšBw¡åB    ÉíVÄß‹BÁúêB    7ØVÄ''¡BğsğB    ¦ÁVÄÍÖ¤BÃöB    
-ªVÄ4›¨BûÈûB    W‘VÄÃt¬B0Ó C    wVÄàc°B_ÓC    w\VÄôh´BsåC    /@VÄf„¸BÖ	
-C    ›"VÄ ¶¼Bö@C    ªVÄ	 ÁBB‹C    MãUÄaÅB-éC    uÁUÄÚÉB+[C    UÄ‹kÎBµáC    yUÄÙÓBD}C    WRUÄiÙ×BW."C    ß)UÄ¥¶ÜBmõ%C    ÿTÄô­áB
-Ó)C    QÓTÄ¿¿æB´Ç-C    ¥TÄmìëBôÓ1C    »tTÄc4ñBXø5C    3BTÄ˜öBn5:C    dTÄ¹üBË‹>C    4ÖSÄîÙ CüBC    ‰œSÄe¶C·†GC    H`SÄr¡C~,LC    T!SÄ>›	CûíPC    ‘ßRÄõ£CÔËUC    àšRÄ¿»C³ÆZC    #SRÄÂâCCß_C    8RÄ"C6eC    ş¹QÄÿ^CBljC    ShQÄy´CâoC    QÄª CŒxuC    ºPÄ©#CK0{C    =]PÄ‹'C…€C    ZüOÄ_¨*CnƒƒC    F—OÄ0M.C¥“†C    Ø-OÄ2C!¶‰C    å¿NÄŞÆ5CMëŒC    ?MNÄ¹›9Cš3C    ºÕMÄŠ€=Cz“C    'YMÄAuACbÿ–C    V×LÄÆyECÈƒšC    PLÄüIC'C    6ÃKÄ»±MCıË¡C    ‚0KÄÖäQCÉ¥C    Å—JÄ'VCl©C    ÊøIÄ8xZCQ^­C    \SIÄõ×^Ch±C    C§HÄøEcCş‰µC    GôGÄâÁgC‚Ä¹C    2:GÄJKlC>¾C    ÈxFÄ¹ápCÇ…ÂC    Ò¯EÄ­„uC¸ÇC    ßDÄ˜3zC­°ËC    XDÄİí~CHoĞC    a%CÄiÙC.JÕC    ÷;BÄà@„CBÚC    ßIAÄï¬†C€WßC    âN@Ä+‰CJ‹äC    ÇJ?Ä"‘‹CŞéC    W=>ÄXC§PïC    ]&=ÄK‚C°ãôC    ¤<Äoş’C÷—úC    úÚ:Ä0|•C!7 D    .¦9Äóú—C­3D    g8ÄzšC	BD    |7ÄâøœCb	D    BÉ5Ä«vŸCØ•D    ?j4Ä°ò¡C(ÜD    Q 3Ä,l¤Cş5D    [‹1ÄOâ¦CĞ£D    D0ÄDT©C&D    ø.Ä.Á«CE½D    fé,Ä)(®Cßi!D    …G+ÄHˆ°Ca,%D    Pš)Äœà²CO)D    Êá'Ä-0µC/õ,D    ú&Äÿu·Cˆü0D    îN$Ä±¹Cç5D    ¾t"Äfà»CÛS9D    † Äñ¾C÷¤=D    jŸÄ­ÀCÑBD    ˜¤Ä‘ÂC•FD    BŸÄ–ÄC'5KD    ¦Ä´øÅCâğOD    vÄéËÇCÖÈTD    ±RÄ2ŒÉC«½YD    û%Ä•8ËCĞ^D    ?ğÄĞÌC² dD    ã±ÄØQÎCFPiD    SkÄä¼ÏC‡¿nD    	ÄcÑC/OtD    pÇÄ†KÒC  zD    kÄ…mÓCÀÒD    ŒÄªuÔCä‚D    ª@ÿÃKcÕCğ…D    fúÃÎ5ÖCM‰D    ‚õÃ©ìÖC—@ŒD    P—ğÃc‡×Cê„D    ¦¥ëÃ•ØC¹Ü’D    Û®æÃêfØCvH–D    B´áÃ!«ØCšÈ™D    2·ÜÃÒØC]D    ¹×ÃÛØCü¡D    »ÒÃ¦ÇØC7È¤D    ¼¾ÍÃ]–ØCĞ¨D    UÅÈÃÖGØCLŒ¬D    3ĞÃÃEÜ×C4‘°D    ¨à¾ÃôS×C®´D     ø¹Ã=¯ÖCxã¸D    }µÃîÕCö1½D    [@°ÃdÕC"šÁD    Ìs«ÃRÔC•ÆD    õ²¦Ãö	ÓCì¹ÊD    òş¡ÃÿŞÑCÈrÏD    ÏXÃ)›ĞCÌGÔD    Á˜Ã??ÏC 9ÙD    !:”ÃÌÍCñHŞD    iÃÃŠBÌCmvãD    ;^‹Ãˆ£ÊCÊÂèD    Z‡ÃğÈC¾.îD    zË‚Ãë(ÇC»óD    |>}ÃDOÅCehùD    suÃdÃC7ÿD    İmÃPhÁC½”E    ¡+eÃ]¿CeŸE    ƒz]ÃSC½C0¼E    +õUÃ%»CŠëE    œNÃè¸Câ-E    ÈoGÃ©¶C©ƒE    up@Ã.`´CTíE    X9Ãg²CXkE    ˆù2Ã6²¯C/şE    ‚,ÃO­CU¦ E    ¯7&Ã`æªCJd$E    \ Ã”w¨C8(E    Æ)Ã¦C©#,E    “eÃ Œ£C &0E    WÍÃ(¡C@4E    ˜`	Ãl•CYs8E    ÊÃ0œC:¿<E    ¦şÂ0˜™Cº$AE    3ôÂ—Cq¤EE    Š©êÂ¢š”Cü>JE    páÂa’CûôNE    u†ØÂò¡CÇSE    ËéÏÂç(CåµXE    ß˜ÇÂÇ²ŠC$Â]E    ı‘¿Â@ˆC}ìbE    lÓ·ÂCÑ…C£5hE    h[°ÂÇfƒCNmE    +(©ÂC9'sE    è7¢ÂË@}C&ÑxE    Óˆ›ÂtŠxCØœ~E    •Â±ßsCE‚E    ÷æÂAoC]N…E    •ğˆÂ3¯jCDiˆE    .4ƒÂ*fC°–‹E    ú_{Âs³aC×E    €ÄpÂoJ]CĞ*’E    w’fÂĞïXCh’•E    vÆ\Âæ£TCN™E    ]SÂøfPCûœE    %SJÂB9LCéD E    K¥AÂúHC™ ¤E    cP9ÂIDC‹Ò§E    QQ1ÂT@CE»«E    ¥)Â7<CN»¯E    H"Â?8C2Ó³E    "9ÂĞo4C~¸E    ÅsÂ°0CÄL¼E    ÌõÂo-Cš¯ÀE    ‹¼ÂCb)C–,ÅE    lÅÂÓ%CWÄÉE    ×øÁËS"CzwÎE    2'íÁaäC£FÓE    1¨âÁ¾„Cz2ØE    @šØÁÉ4Cª;İE    ñøÎÁfôCàbâE    û¿ÅÁuÃCÒ¨çE    <ë¼ÁÔ¡C5íE    ³v´Á_CÅ“òE    ƒ^¬Áï‹CB:øE    ó¤Á[—CqşE    j4Áx±CöF    q–Á2´ÿB†ıF    °PÁ!"úB‹F    ğĞˆÁ]¬ôB
-BF    ™‚Á…RïBo€F    \LyÁ8êB,ÒF    ¢êmÁñäB´7F    cÁ¤èßB}±F    ¥XÁúÚB @F    ú§NÁl&ÖB¸ãF    •!EÁÍkÑB$#F    Ã<ÁKÊÌBÆl'F    şO3Á{AÈB!S+F    ìû*ÁóĞÃB½P/F    d#ÁJx¿B%f3F    ehÁ7»Bç“7F    !Áì·B”Ú;F    Ğ+Ádù²BÀ:@F    …Áü®BµDF    P) Á™«BûIIF    í*ôÀ†B§BEúMF    µŒèÀw…£B„ÆRF    rİÀİŸB_¯WF    ÕÒÀÍHœB€µ\F    †°ÈÀkÈ˜B—ÙaF    ÿ¾À|[•BVgF    •»µÀŸ’Bs~lF    aá¬ÀtºBª rF    Òk¤Àœ…‹Bº£wF    |VœÀ¹bˆBgh}F    &”ÀoQ…B½§F    È;ÀbQ‚Bà¬„F    €.†ÀrÄ~BÄ‡F    ;ã~À6yB—íŠF    &rÀdjsB*F    ıµeÀNímB¾y‘F    @õYÀLhB7İ”F    ½ºNÀ¹OcBäT˜F    „ DÀñ-^B?á›F    æÀ9ÀT)YBÂ‚ŸF    uö/ÀDATBì9£F     œ&À'uOB>§F    ¬ÀdÄJB<ëªF    a#Àg.FBlæ®F    íûÀ›²ABZù²F    Ú1ÀsP=B”$·F    ‚û¿`9B©h»F    ×Jí¿ØÖ4B.Æ¿F    —¶ß¿T¾0B»=ÄF    ¾Ò¿M½,BêÏÈF    +ZÆ¿AÓ(B\}ÍF    m„º¿±ÿ$B²FÒF    t6¯¿B!B“,×F    0j¤¿šB©/ÜF    Øš¿B¡PáF    ä?¿•ˆB/æF    	×†¿BB	ïëF    t´{¿ÇBémñF    F‰j¿9„B÷F    N#Z¿¦S	B»ÎüF    ¹yJ¿|5BYG    „;¿Q)Bj\G    g:-¿À. B¯qG    ë”¿ÈŠúAW™
-G    LŒ¿·ÙôAÎÓG    †¿IïA†!G    Ãkô¾ÙéAñ‚G    íµİ¾‰äA„øG    JÈ¾;WßA¸‚G    $N³¾‚CÚA"G    O…Ÿ¾,MÕAğÖ"G     Œ¾’sĞAô¡&G    ®(u¾¶ËA•ƒ*G    °R¾ÇA\|.G    Å1¾ÍŒÂAÒŒ2G    –T¾Õ¾A„µ6G    !œè½„Ì¹A÷:G    ŠB¯½F’µAâQ?G    Éúp½‹p±A¹ÆCG    #^½Åf­A#VHG    -Ú¼kt©A¿ MG    'Èk<ô˜¥A.ÇQG    ==ŞÓ¡AªVG    _m=¦$A"ª[G    C =ÏŠšAşÇ`G    XÂÇ=Ü—A^fG    ê¥í=U•“Aõ_kG    >ê>Ã8A€ÛpG    Ô0>´ïŒA¼wvG    °*>¶¹‰Al5|G    èp:>Z–†A¬
-G    Ş{I>5…ƒA&„G    ÙW>İ…€AŒ‡G    he>Ö/{AJEŠG    3©r>òuuAÌ}G    –*>KİoAƒÉG    ¬…>ejAá(”G    ù@‹>°eA[œ—G    H²>GÓ_Ai$›G    ä•>0¸ZA‡ÁG    œÚš>¹ºUA0t¢G    !—Ÿ>7ÚPAç<¦G    ±¤>LA.ªG    ¾m¨>tmGAŒ®G     Œ¬>ìßBA‹ ²G    “{°>Íl>A·F¶G    ¹<´>}:A¡…ºG    Ò·>fÓ5AÜİ¾G    ¬=»>õ«1A PÃG    F¾>™œ-A¦ÜÇG    ®Á>Æ¤)Am„ÌG    –—Ä>ôÃ%A÷GÑG    ™mÇ>›ù!Aé'ÖG    C"Ê>8EAì$ÛG    
-·Ì>L¦A®?àG    V-Ï>XAáxåG    |†Ñ>ã¦A9ÑêG    ÄÃÓ>sEApIğG    cæÕ>•÷AEâõG    ƒï×>Ö¼	AzœûG    >àÙ>Å”Ak¼ H    £¹Û>ö~A¼H    ³|İ>ız A›ÍH    a*ß>äû@pñ	H    ™Ãà>ŞMõ@ÿ'H    7Iâ>¬ï@¶qH    ¼ã>å*ê@ÏH    íå>pÉä@j@H    læ>‡ß@TÆH    ©«ç>òbÚ@AaH    ìÚè>\Õ@¬"H    üúé>sĞ@Ø%H    uë>Í¥Ë@µ)H    íì><ôÆ@ü¨-H    ïí>¬]Â@…´1H    ïí>~á½@.Ø5H    ¨Ëî>¹@…:H    Vœï>Ü5µ@j>H    ~ağ><±@ÙBH    ñ>¤ì¬@scGH    çÊñ>†ë¨@gLH    íoò>X¥@ÉPH    ú
-ó>’-¡@
-¦UH    bœó>°o@ ZH    v$ô>/Ç™@±·_H    £ô>’3–@¸ídH    Æõ>[´’@ÓBjH    Š‡õ>I@¹·oH    	íõ>Cñ‹@)MuH    |Jö>w¬ˆ@å{H     ö>>z…@Zn€H    îö>*Z‚@/lƒH    ƒ4÷>—~@Ü{†H    ©s÷>…x@É‰H    ¡«÷><År@eÒŒH    ‹Ü÷>ùm@H    ‡ø>övg@fu“H    ­)ø>tÿa@±ä–H    Fø>µ¦\@yhšH    Ï[ø>lW@5H    îjø>§NR@d¯¡H    sø>óMM@…s¥H    Šuø><iH@N©H    qø>ÙŸC@¬?­H    (fø>'ñ>@ÂH±H    ¾Tø>„\:@çiµH    ×<ø>Tá5@­£¹H    mø> 1@¥ö½H    yù÷>ğ4-@ecÂH    ïÍ÷>“)@‰êÆH    Â›÷>[ç$@¬ŒËH    áb÷>¼â @qJĞH    9#÷>/ô@{$ÕH    ´Üö>/@sÚH    ;ö>:W@0ßH    ²:ö>Ò§@åbäH    üŞõ>{@Ã´éH    ù{õ>¾„
-@Z&ïH    ˆõ>%@g¸ôH    ƒŸô>=®@¬kúH    Ä%ô>—^ @w  I    "¤ó>Aú?}I    ró>Áèó?N*I    ‡ˆò>ş±í?UJ	I    2îñ>yœç?ÿ|I    AKñ>o§á?ºÂI    ‚Ÿğ>"ÒÛ?ùI    Áêï>×Ö?0‰I    È,ï>ÜƒĞ?Ö
-I    _eî>‚	Ë?d¡I    O”í>¬Å?WM!I    \¹ì>	kÀ?0%I    NÔë>§E»?pç(I    èäê>Z;¶?Ö,I    ïêé>K±??İ0I    'æè>­u¬?äû4I    UÖç>.¹§?39I    ;»æ>ˆ£?rƒ=I    Ÿ”å>6Š?„íAI    Fbä>»š?èqFI    ö#ã>šº•?<KI    wÙá>_u‘?!ÌOI    “‚à>˜F?9£TI    ß>Ö-‰?/—YI    Ì®İ>±*…?­¨^I    ‡1Ü>Å<?eØcI    §Ú>`Çz?	'iI    _Ù>,>s?T•nI    /j×>=İk? $tI    l·Õ>è£d?
